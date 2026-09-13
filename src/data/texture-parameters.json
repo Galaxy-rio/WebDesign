@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Pixel dusk",
+    "type": "pixel",
+    "params": {}
+  },
+  {
+    "name": "Cyber dusk",
+    "type": "pixel",
+    "params": {}
+  },
+  {
+    "name": "Glassy wisteria",
+    "type": "glassy",
+    "params": {
+      "scale": 45,
+      "cover": 100,
+      "rings": 50,
+      "weave": 50,
+      "refract": 55
+    }
+  },
+  {
+    "name": "Pixel wisteria",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "style": "Quilt"
+    }
+  },
+  {
+    "name": "Pixel rose",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "style": "Quilt"
+    }
+  },
+  {
+    "name": "Pixel coral",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "style": "Quilt"
+    }
+  },
+  {
+    "name": "Pixel amber",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "style": "Quilt"
+    }
+  },
+  {
+    "name": "Pixel lagoon",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "style": "Quilt"
+    }
+  },
+  {
+    "name": "Pixel azure",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "style": "Quilt"
+    }
+  },
+  {
+    "name": "Pixel matcha",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "style": "Quilt"
+    }
+  },
+  {
+    "name": "Crimson pulse",
+    "type": "pixel",
+    "params": {
+      "scale": 50,
+      "cover": 4,
+      "rings": 100,
+      "weave": 45,
+      "style": "Orbs"
+    }
+  },
+  {
+    "name": "Ocean aurora",
+    "type": "pixel",
+    "params": {
+      "scale": 50,
+      "cover": 4,
+      "rings": 100,
+      "weave": 45,
+      "style": "Orbs"
+    }
+  },
+  {
+    "name": "Violet pulse",
+    "type": "pixel",
+    "params": {
+      "scale": 50,
+      "cover": 4,
+      "rings": 100,
+      "weave": 45,
+      "style": "Orbs"
+    }
+  },
+  {
+    "name": "Ember bloom",
+    "type": "pixel",
+    "params": {
+      "scale": 50,
+      "cover": 4,
+      "rings": 100,
+      "weave": 45,
+      "style": "Orbs"
+    }
+  },
+  {
+    "name": "Matcha aurora",
+    "type": "pixel",
+    "params": {
+      "scale": 50,
+      "cover": 4,
+      "rings": 100,
+      "weave": 45,
+      "style": "Orbs"
+    }
+  },
+  {
+    "name": "Moon frost",
+    "type": "pixel",
+    "params": {
+      "scale": 50,
+      "cover": 4,
+      "rings": 100,
+      "weave": 45,
+      "style": "Orbs"
+    }
+  },
+  {
+    "name": "Glass peach",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "cover": 55,
+      "style": "Glass"
+    }
+  },
+  {
+    "name": "Glass strawberry",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "cover": 55,
+      "style": "Glass"
+    }
+  },
+  {
+    "name": "Glass mint",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "cover": 55,
+      "style": "Glass"
+    }
+  },
+  {
+    "name": "Glass ramune",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "cover": 55,
+      "style": "Glass"
+    }
+  },
+  {
+    "name": "Glass honey",
+    "type": "pixel",
+    "params": {
+      "scale": 40,
+      "cover": 55,
+      "style": "Glass"
+    }
+  },
+  {
+    "name": "Glassy lime",
+    "type": "glassy",
+    "params": {
+      "scale": 30,
+      "cover": 45,
+      "rings": 50,
+      "weave": 50
+    }
+  },
+  {
+    "name": "Glassy sky",
+    "type": "glassy",
+    "params": {
+      "scale": 50,
+      "cover": 100,
+      "rings": 50,
+      "weave": 50
+    }
+  },
+  {
+    "name": "Glassy strawberry",
+    "type": "glassy",
+    "params": {
+      "scale": 50,
+      "cover": 100,
+      "rings": 50,
+      "weave": 50,
+      "refract": 80
+    }
+  },
+  {
+    "name": "Glassy peach",
+    "type": "glassy",
+    "params": {
+      "scale": 50,
+      "cover": 100,
+      "rings": 50,
+      "weave": 50
+    }
+  },
+  {
+    "name": "Glassy mint",
+    "type": "glassy",
+    "params": {
+      "scale": 50,
+      "cover": 100,
+      "rings": 50,
+      "weave": 50,
+      "warp": 45
+    }
+  },
+  {
+    "name": "Glassy hearts",
+    "type": "glassy",
+    "params": {
+      "scale": 30,
+      "cover": 55,
+      "rings": 50,
+      "weave": 50,
+      "shape": "Heart"
+    }
+  },
+  {
+    "name": "Glassy stars",
+    "type": "glassy",
+    "params": {
+      "scale": 25,
+      "cover": 55,
+      "rings": 50,
+      "weave": 50,
+      "shape": "Star"
+    }
+  }
+]

@@ -1,0 +1,124 @@
+/* The native select remains the form value source; its enhanced picker is top-layer. */
+select.theme-select-native { display: none !important; }
+
+.theme-select-trigger {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-between;
+  min-width: 0;
+  max-width: 100%;
+  min-height: 40px;
+  padding: 8px 30px 8px 10px;
+  border: 1px solid transparent;
+  border-radius: 11px;
+  color: var(--on-surface);
+  background: var(--field);
+  font: inherit;
+  font-size: 12px;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.select-field > .theme-select-trigger { width: 60%; }
+.form-field > .theme-select-trigger { width: 100%; }
+.sort-field > .theme-select-trigger {
+  min-width: 122px;
+  border-radius: 100px;
+  border-color: var(--mica-edge);
+  background: var(--mica);
+  box-shadow: inset 0 1px 0 var(--mica-highlight), var(--shadow);
+  -webkit-backdrop-filter: blur(30px) saturate(1.2);
+  backdrop-filter: blur(30px) saturate(1.2);
+}
+
+.theme-select-caption { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.theme-select-trigger::after {
+  content: '';
+  position: absolute;
+  right: 12px;
+  top: calc(50% - 5px);
+  width: 7px;
+  height: 7px;
+  border: solid currentColor;
+  border-width: 0 1.5px 1.5px 0;
+  transform: rotate(45deg);
+  transition: transform .15s;
+}
+
+.theme-select-trigger:hover:not(:disabled) { background: var(--field-hover); }
+.theme-select-trigger[aria-expanded='true'] { background: var(--field-hover); border-color: var(--outline-variant); }
+.theme-select-trigger[aria-expanded='true']::after { top: calc(50% - 1px); transform: rotate(225deg); }
+.theme-select-trigger:focus-visible { outline: 2px solid var(--primary); outline-offset: 3px; }
+.theme-select-trigger:active:not(:disabled) { transform: none; }
+.theme-select-trigger[aria-invalid='true'] { border-color: var(--error); }
+
+.theme-select-menu {
+  position: fixed;
+  inset: auto;
+  z-index: 1000;
+  margin: 0;
+  padding: 5px;
+  min-width: 0;
+  max-width: calc(100vw - 20px);
+  overflow: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--outline-variant) transparent;
+  border: 1px solid var(--mica-edge);
+  border-radius: 15px;
+  background: var(--mica-strong);
+  color: var(--on-surface);
+  box-shadow: inset 0 1px 0 var(--mica-highlight), 0 8px 28px #00000024;
+  -webkit-backdrop-filter: blur(32px) saturate(1.2);
+  backdrop-filter: blur(32px) saturate(1.2);
+  font: 12px/1.4 'DM Sans', system-ui, sans-serif;
+  text-align: left;
+}
+
+.theme-select-menu::backdrop { background: transparent; }
+.theme-select-menu.in-dialog-fallback { position: absolute; }
+.theme-select-option {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 35px;
+  padding: 8px 30px 8px 11px;
+  border-radius: 10px;
+  cursor: pointer;
+  overflow-wrap: anywhere;
+  user-select: none;
+}
+
+.theme-select-option + .theme-select-option { margin-top: 2px; }
+.theme-select-option.is-active { background: var(--field-hover); }
+.theme-select-option[aria-selected='true'] {
+  background: var(--selected-surface);
+  color: var(--selected-ink);
+  font-weight: 600;
+  box-shadow: inset 0 1px 0 #ffffff30, 0 1px 2px #00000006;
+}
+.theme-select-option[aria-selected='true']::after {
+  content: '';
+  position: absolute;
+  right: 13px;
+  width: 5px;
+  height: 9px;
+  border: solid currentColor;
+  border-width: 0 1.5px 1.5px 0;
+  transform: rotate(45deg);
+}
+.theme-select-option.is-active:not([aria-disabled='true']) { outline: 1px solid var(--outline-variant); outline-offset: -1px; }
+.theme-select-option[aria-disabled='true'] { opacity: .4; cursor: not-allowed; }
+.theme-select-group { color: var(--on-variant); font-size: 10px; font-weight: 650; padding: 10px 11px 5px; }
+
+@media (pointer: coarse) {
+  .theme-select-option { min-height: 42px; }
+}
+
+@media (forced-colors: active) {
+  .theme-select-trigger, .theme-select-menu { border: 1px solid ButtonText; background: Canvas; color: CanvasText; }
+  .theme-select-option.is-active { outline: 2px solid Highlight; }
+  .theme-select-option[aria-selected='true'] { background: Highlight; color: HighlightText; forced-color-adjust: none; }
+}

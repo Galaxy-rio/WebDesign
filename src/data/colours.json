@@ -1,0 +1,614 @@
+[
+  {
+    "name": "SHELL WHITE",
+    "hex": "#FFFFFC",
+    "japanese": "胡粉色",
+    "romaji": "GOFUN-IRO"
+  },
+  {
+    "name": "UNBLEACHED SILK",
+    "hex": "#FBFAF5",
+    "japanese": "生成り色",
+    "romaji": "KINARI-IRO"
+  },
+  {
+    "name": "IVORY",
+    "hex": "#F8F4E6",
+    "japanese": "象牙色",
+    "romaji": "ZOUGE-IRO"
+  },
+  {
+    "name": "MOON WHITE",
+    "hex": "#EAF4FC",
+    "japanese": "月白",
+    "romaji": "GEPPAKU"
+  },
+  {
+    "name": "INDIGO WHITE",
+    "hex": "#EBF6F7",
+    "japanese": "藍白",
+    "romaji": "AIJIRO"
+  },
+  {
+    "name": "WHITE GREY",
+    "hex": "#DCDDDD",
+    "japanese": "白鼠",
+    "romaji": "SHIRONEZU"
+  },
+  {
+    "name": "SILK GREY",
+    "hex": "#DDDDD6",
+    "japanese": "絹鼠",
+    "romaji": "KINU-NEZU"
+  },
+  {
+    "name": "WHITE HAZE",
+    "hex": "#CDD3D9",
+    "japanese": "白霞",
+    "romaji": "SHIROKASUMI"
+  },
+  {
+    "name": "MOON HAZE",
+    "hex": "#DDDBE0",
+    "japanese": "月霞",
+    "romaji": "TSUKIKASUMI"
+  },
+  {
+    "name": "CHERRY BLOSSOM",
+    "hex": "#FEF4F4",
+    "japanese": "桜色",
+    "romaji": "SAKURA-IRO"
+  },
+  {
+    "name": "PALE CHERRY",
+    "hex": "#FDEFF2",
+    "japanese": "薄桜",
+    "romaji": "USUZAKURA"
+  },
+  {
+    "name": "PINK DIANTHUS",
+    "hex": "#EEBBCB",
+    "japanese": "撫子色",
+    "romaji": "NADESHIKO-IRO"
+  },
+  {
+    "name": "IBIS PINK",
+    "hex": "#F4B3C2",
+    "japanese": "鴇色",
+    "romaji": "TOKI-IRO"
+  },
+  {
+    "name": "PEACH PINK",
+    "hex": "#F09199",
+    "japanese": "桃色",
+    "romaji": "MOMO-IRO"
+  },
+  {
+    "name": "CORAL",
+    "hex": "#F5B1AA",
+    "japanese": "珊瑚色",
+    "romaji": "SANGO-IRO"
+  },
+  {
+    "name": "RED PLUM",
+    "hex": "#F2A0A1",
+    "japanese": "紅梅色",
+    "romaji": "KOUBAI-IRO"
+  },
+  {
+    "name": "PALE CRIMSON",
+    "hex": "#F0908D",
+    "japanese": "薄紅",
+    "romaji": "USUBENI"
+  },
+  {
+    "name": "PALE CRIMSON WISTERIA",
+    "hex": "#D6BBC6",
+    "japanese": "薄紅藤",
+    "romaji": "USU-BENI-FUJI"
+  },
+  {
+    "name": "DEEP CRIMSON",
+    "hex": "#E95464",
+    "japanese": "韓紅",
+    "romaji": "KARAKURENAI"
+  },
+  {
+    "name": "CRIMSON",
+    "hex": "#D7003A",
+    "japanese": "紅色",
+    "romaji": "BENI-IRO"
+  },
+  {
+    "name": "MADDER RED",
+    "hex": "#B7282E",
+    "japanese": "茜色",
+    "romaji": "AKANE-IRO"
+  },
+  {
+    "name": "DEEP RED",
+    "hex": "#A22041",
+    "japanese": "真紅",
+    "romaji": "SHINKU"
+  },
+  {
+    "name": "DARK RED",
+    "hex": "#B94047",
+    "japanese": "臙脂",
+    "romaji": "ENJI"
+  },
+  {
+    "name": "SAPPANWOOD",
+    "hex": "#9E3D3F",
+    "japanese": "蘇芳",
+    "romaji": "SUOU"
+  },
+  {
+    "name": "ADZUKI BEAN",
+    "hex": "#96514D",
+    "japanese": "小豆色",
+    "romaji": "AZUKI-IRO"
+  },
+  {
+    "name": "SHRIMP BROWN",
+    "hex": "#773C30",
+    "japanese": "海老茶",
+    "romaji": "EBICHA"
+  },
+  {
+    "name": "VERMILION",
+    "hex": "#EB6101",
+    "japanese": "朱色",
+    "romaji": "SHU-IRO"
+  },
+  {
+    "name": "PERSIMMON",
+    "hex": "#ED6D3D",
+    "japanese": "柿色",
+    "romaji": "KAKI-IRO"
+  },
+  {
+    "name": "BITTER ORANGE",
+    "hex": "#EE7800",
+    "japanese": "橙色",
+    "romaji": "DAIDAI-IRO"
+  },
+  {
+    "name": "CINNAMON",
+    "hex": "#D2691E",
+    "japanese": "肉桂色",
+    "romaji": "NIKKEI-IRO"
+  },
+  {
+    "name": "AMBER",
+    "hex": "#BF783A",
+    "japanese": "琥珀色",
+    "romaji": "KOHAKU-IRO"
+  },
+  {
+    "name": "OCHRE",
+    "hex": "#C39143",
+    "japanese": "黄土色",
+    "romaji": "OUDO-IRO"
+  },
+  {
+    "name": "KERRIA GOLD",
+    "hex": "#F8B500",
+    "japanese": "山吹色",
+    "romaji": "YAMABUKI-IRO"
+  },
+  {
+    "name": "SUNFLOWER",
+    "hex": "#FCC800",
+    "japanese": "向日葵色",
+    "romaji": "HIMAWARI-IRO"
+  },
+  {
+    "name": "CORK TREE YELLOW",
+    "hex": "#FEF263",
+    "japanese": "黄檗色",
+    "romaji": "KIHADA-IRO"
+  },
+  {
+    "name": "PALE YELLOW",
+    "hex": "#F8E58C",
+    "japanese": "淡黄",
+    "romaji": "TANKOU"
+  },
+  {
+    "name": "EGGSHELL",
+    "hex": "#FFF1CF",
+    "japanese": "鳥の子色",
+    "romaji": "TORINOKO-IRO"
+  },
+  {
+    "name": "FLAX",
+    "hex": "#D6C6AF",
+    "japanese": "亜麻色",
+    "romaji": "AMA-IRO"
+  },
+  {
+    "name": "RIKYU PALE BROWN",
+    "hex": "#C8BFAE",
+    "japanese": "利休白茶",
+    "romaji": "RIKYU-SHIROCHA"
+  },
+  {
+    "name": "WALNUT",
+    "hex": "#A86F4C",
+    "japanese": "胡桃色",
+    "romaji": "KURUMI-IRO"
+  },
+  {
+    "name": "DARK BROWN",
+    "hex": "#6F4B3E",
+    "japanese": "焦茶",
+    "romaji": "KOGECHA"
+  },
+  {
+    "name": "CHESTNUT",
+    "hex": "#762F07",
+    "japanese": "栗色",
+    "romaji": "KURI-IRO"
+  },
+  {
+    "name": "SOOTY BAMBOO",
+    "hex": "#5A544B",
+    "japanese": "煤竹色",
+    "romaji": "SUSUTAKE-IRO"
+  },
+  {
+    "name": "YELLOW GREEN",
+    "hex": "#A7C636",
+    "japanese": "黄緑",
+    "romaji": "KIMIDORI"
+  },
+  {
+    "name": "YOUNG GRASS",
+    "hex": "#C3D825",
+    "japanese": "若草色",
+    "romaji": "WAKAKUSA-IRO"
+  },
+  {
+    "name": "SPROUT GREEN",
+    "hex": "#AACF53",
+    "japanese": "萌黄",
+    "romaji": "MOEGI"
+  },
+  {
+    "name": "WILLOW",
+    "hex": "#A8C97F",
+    "japanese": "柳色",
+    "romaji": "YANAGI-IRO"
+  },
+  {
+    "name": "PALE GREEN",
+    "hex": "#D6E9CA",
+    "japanese": "白緑",
+    "romaji": "BYAKUROKU"
+  },
+  {
+    "name": "YOUNG BAMBOO",
+    "hex": "#68BE8D",
+    "japanese": "若竹色",
+    "romaji": "WAKATAKE-IRO"
+  },
+  {
+    "name": "EVERGREEN",
+    "hex": "#007B43",
+    "japanese": "常磐色",
+    "romaji": "TOKIWA-IRO"
+  },
+  {
+    "name": "PINE GREEN",
+    "hex": "#316745",
+    "japanese": "千歳緑",
+    "romaji": "CHITOSE-MIDORI"
+  },
+  {
+    "name": "PINE NEEDLE",
+    "hex": "#839B5C",
+    "japanese": "松葉色",
+    "romaji": "MATSUBA-IRO"
+  },
+  {
+    "name": "AGED BAMBOO",
+    "hex": "#6B7F59",
+    "japanese": "老竹色",
+    "romaji": "OITAKE-IRO"
+  },
+  {
+    "name": "WILLOW GREY",
+    "hex": "#9FAF9F",
+    "japanese": "柳鼠",
+    "romaji": "YANAGI-NEZU"
+  },
+  {
+    "name": "PALE OAK",
+    "hex": "#A5B7A5",
+    "japanese": "青白橡",
+    "romaji": "AOSHIRO-TSURUBAMI"
+  },
+  {
+    "name": "RUSTED STOREROOM",
+    "hex": "#5B6F57",
+    "japanese": "錆御納戸",
+    "romaji": "SABI-ONANDO"
+  },
+  {
+    "name": "MOSS",
+    "hex": "#69821B",
+    "japanese": "苔色",
+    "romaji": "KOKE-IRO"
+  },
+  {
+    "name": "NIGHTINGALE",
+    "hex": "#928C36",
+    "japanese": "鶯色",
+    "romaji": "UGUISU-IRO"
+  },
+  {
+    "name": "SEAWEED",
+    "hex": "#726D40",
+    "japanese": "海松色",
+    "romaji": "MIRU-IRO"
+  },
+  {
+    "name": "CELADON",
+    "hex": "#7EBEA5",
+    "japanese": "青磁色",
+    "romaji": "SEIJI-IRO"
+  },
+  {
+    "name": "GLIMPSE OF INDIGO",
+    "hex": "#A2D7DD",
+    "japanese": "瓶覗",
+    "romaji": "KAMENOZOKI"
+  },
+  {
+    "name": "WATER",
+    "hex": "#BCE2E8",
+    "japanese": "水色",
+    "romaji": "MIZU-IRO"
+  },
+  {
+    "name": "SKY",
+    "hex": "#A0D8EF",
+    "japanese": "空色",
+    "romaji": "SORA-IRO"
+  },
+  {
+    "name": "PALE HANADA",
+    "hex": "#D6EAF3",
+    "japanese": "白縹",
+    "romaji": "SHIRAHANADA"
+  },
+  {
+    "name": "PALE BLUE GREEN",
+    "hex": "#00A3AF",
+    "japanese": "浅葱色",
+    "romaji": "ASAGI-IRO"
+  },
+  {
+    "name": "STOREROOM BLUE",
+    "hex": "#008899",
+    "japanese": "納戸色",
+    "romaji": "NANDO-IRO"
+  },
+  {
+    "name": "LIGHT INDIGO",
+    "hex": "#007BBB",
+    "japanese": "縹色",
+    "romaji": "HANADA-IRO"
+  },
+  {
+    "name": "ULTRAMARINE",
+    "hex": "#4C6CB3",
+    "japanese": "群青色",
+    "romaji": "GUNJOU-IRO"
+  },
+  {
+    "name": "LAPIS",
+    "hex": "#1E50A2",
+    "japanese": "瑠璃色",
+    "romaji": "RURI-IRO"
+  },
+  {
+    "name": "INDIGO",
+    "hex": "#274A78",
+    "japanese": "藍色",
+    "romaji": "AI-IRO"
+  },
+  {
+    "name": "NAVY",
+    "hex": "#223A70",
+    "japanese": "紺色",
+    "romaji": "KON-IRO"
+  },
+  {
+    "name": "SAMURAI INDIGO",
+    "hex": "#181B3A",
+    "japanese": "勝色",
+    "romaji": "KACHI-IRO"
+  },
+  {
+    "name": "WISTERIA",
+    "hex": "#B28FCE",
+    "japanese": "藤色",
+    "romaji": "FUJI-IRO"
+  },
+  {
+    "name": "WISTERIA PURPLE",
+    "hex": "#A59ACA",
+    "japanese": "藤紫",
+    "romaji": "FUJIMURASAKI"
+  },
+  {
+    "name": "VIOLET",
+    "hex": "#7058A3",
+    "japanese": "菫色",
+    "romaji": "SUMIRE-IRO"
+  },
+  {
+    "name": "BELLFLOWER",
+    "hex": "#5654A2",
+    "japanese": "桔梗色",
+    "romaji": "KIKYOU-IRO"
+  },
+  {
+    "name": "EDO PURPLE",
+    "hex": "#745399",
+    "japanese": "江戸紫",
+    "romaji": "EDOMURASAKI"
+  },
+  {
+    "name": "DARK PURPLE",
+    "hex": "#460E44",
+    "japanese": "紫紺",
+    "romaji": "SHIKON"
+  },
+  {
+    "name": "DEEP PURPLE",
+    "hex": "#3B1E4A",
+    "japanese": "濃紫",
+    "romaji": "KOIMURASAKI"
+  },
+  {
+    "name": "AUBERGINE",
+    "hex": "#824880",
+    "japanese": "茄子紺",
+    "romaji": "NASUKON"
+  },
+  {
+    "name": "ANCIENT PURPLE",
+    "hex": "#895B8A",
+    "japanese": "古代紫",
+    "romaji": "KODAIMURASAKI"
+  },
+  {
+    "name": "IN-BETWEEN PURPLE",
+    "hex": "#A69ABD",
+    "japanese": "半色",
+    "romaji": "HASHITA-IRO"
+  },
+  {
+    "name": "WISTERIA PAPER",
+    "hex": "#D4CEDB",
+    "japanese": "藤紙",
+    "romaji": "FUJIGAMI"
+  },
+  {
+    "name": "PLUM SMOKE",
+    "hex": "#BEB6C4",
+    "japanese": "梅煙",
+    "romaji": "UMEKEMURI"
+  },
+  {
+    "name": "AUBERGINE HAZE",
+    "hex": "#AEA4B4",
+    "japanese": "茄子霞",
+    "romaji": "NASUKASUMI"
+  },
+  {
+    "name": "DEEP PLUM GREY",
+    "hex": "#84788B",
+    "japanese": "深梅鼠",
+    "romaji": "FUKAUMENEZUMI"
+  },
+  {
+    "name": "NIGHT PURPLE",
+    "hex": "#3C3044",
+    "japanese": "夜紫",
+    "romaji": "YORUMURASAKI"
+  },
+  {
+    "name": "DUSK TEMPLE GREY",
+    "hex": "#6A6070",
+    "japanese": "夕寺鼠",
+    "romaji": "YUUDERA-NEZUMI"
+  },
+  {
+    "name": "SILVER GREY",
+    "hex": "#AFAFB0",
+    "japanese": "銀鼠",
+    "romaji": "GIN-NEZU"
+  },
+  {
+    "name": "WISTERIA GREY",
+    "hex": "#B0A8B8",
+    "japanese": "藤鼠",
+    "romaji": "FUJI-NEZUMI"
+  },
+  {
+    "name": "TEA GREY",
+    "hex": "#A99E93",
+    "japanese": "茶鼠",
+    "romaji": "CHANEZUMI"
+  },
+  {
+    "name": "DOVE GREY",
+    "hex": "#9E8B8E",
+    "japanese": "鳩羽鼠",
+    "romaji": "HATOBA-NEZU"
+  },
+  {
+    "name": "RIKYU GREY",
+    "hex": "#888E7E",
+    "japanese": "利休鼠",
+    "romaji": "RIKYU-NEZU"
+  },
+  {
+    "name": "GENJI GREY",
+    "hex": "#888084",
+    "japanese": "源氏鼠",
+    "romaji": "GENJI-NEZU"
+  },
+  {
+    "name": "SMOKE GREY",
+    "hex": "#807870",
+    "japanese": "煙鼠",
+    "romaji": "KEMURI-NEZUMI"
+  },
+  {
+    "name": "DULL GREY",
+    "hex": "#727171",
+    "japanese": "鈍色",
+    "romaji": "NIBI-IRO"
+  },
+  {
+    "name": "INK GREY",
+    "hex": "#707070",
+    "japanese": "墨鼠",
+    "romaji": "SUMINEZUMI"
+  },
+  {
+    "name": "QUENCHED CRIMSON GREY",
+    "hex": "#524748",
+    "japanese": "紅消鼠",
+    "romaji": "BENIKESHI-NEZUMI"
+  },
+  {
+    "name": "CHARCOAL",
+    "hex": "#524E4D",
+    "japanese": "消炭色",
+    "romaji": "KESHIZUMI-IRO"
+  },
+  {
+    "name": "AMAKUSA BLACK",
+    "hex": "#36363B",
+    "japanese": "天草黒",
+    "romaji": "AMAKUSA-GURO"
+  },
+  {
+    "name": "INK BLACK",
+    "hex": "#1C1C1C",
+    "japanese": "墨色",
+    "romaji": "SUMI-IRO"
+  },
+  {
+    "name": "BLACK",
+    "hex": "#0D0D0D",
+    "japanese": "黒",
+    "romaji": "KURO"
+  }
+]

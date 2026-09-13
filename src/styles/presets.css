@@ -1,0 +1,83 @@
+/* Swatch geometry is independent of hover, borders and selection decoration. */
+.preset-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px 7px;
+}
+
+.preset {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+  background: none;
+  gap: 5px;
+  padding: 3px 2px;
+  border-radius: 12px;
+  font-size: 11px;
+  line-height: 1.25;
+}
+
+.preset:hover { background: var(--field-hover); }
+.preset.active { color: var(--on-surface); font-weight: 650; }
+
+.preset-disc,
+.preset.active .preset-disc,
+.preset:hover .preset-disc {
+  display: block;
+  position: relative;
+  flex: none;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  box-shadow: none;
+  transform: none;
+  transition: none;
+}
+
+.preset-colours {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.preset-rim { stroke: var(--outline); stroke-opacity: .35; stroke-width: 1.5; }
+.preset.active .preset-rim { stroke: var(--primary); stroke-opacity: 1; stroke-width: 3; }
+
+.preset-check {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  right: -1px;
+  bottom: -1px;
+  width: 15px;
+  height: 15px;
+  border: 1.5px solid var(--surface);
+  border-radius: 50%;
+  background: var(--primary);
+  color: var(--on-primary);
+  box-shadow: none;
+}
+.preset-check .icon { width: 9px; height: 9px; }
+
+@media (max-width: 850px) and (min-width: 701px) {
+  .preset-grid { gap: 12px 4px; }
+  .preset { font-size: 10px; }
+  .preset-disc, .preset.active .preset-disc, .preset:hover .preset-disc { width: 39px; height: 39px; }
+}
+
+@media (max-width: 400px) {
+  .preset-grid { gap: 12px 5px; }
+  .preset-disc, .preset.active .preset-disc, .preset:hover .preset-disc { width: 41px; height: 41px; }
+}
+.arrangement-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 9px; }
+.arrangement-preset { padding: 4px; min-width: 0; border: 1px solid var(--mica-edge); border-radius: 12px; background: var(--mica); color: var(--on-surface); box-shadow: inset 0 1px var(--mica-highlight); }
+.arrangement-preset canvas { display: block; width: 100%; height: auto; aspect-ratio: 10 / 7; border-radius: 8px; }
+.arrangement-preset > span { display: block; padding: 5px 0 2px; font-size: 11px; line-height: 1.3; }
+.arrangement-preset.active { border-color: var(--selected-ink); background: var(--selected-surface); color: var(--selected-ink); outline: 1px solid var(--selected-surface); outline-offset: 2px; }
+.arrangement-preset:hover { background: var(--field-hover); }

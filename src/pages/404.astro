@@ -1,0 +1,12 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import Icon from '../components/Icon.astro';
+---
+<SiteLayout title="Page not found · galaxyrio design">
+  <main id="main" class="empty-state" style="min-height:100dvh;justify-content:center">
+    <span class="empty-symbol"><Icon name="sparkle" size={40}/></span>
+    <span class="eyebrow">404</span><h1>This colour went wandering.</h1>
+    <p>There isn’t a page at this address.</p>
+    <a class="filled-button" href="/">Back to the playground <Icon name="arrow"/></a>
+  </main>
+</SiteLayout>

@@ -1,0 +1,4330 @@
+[
+  {
+    "name": "Wisteria night",
+    "type": "LINEAR",
+    "colors": [
+      "#3B1E4A",
+      "#B28FCE",
+      "#D6EAF3"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Moon haze",
+    "type": "LINEAR",
+    "colors": [
+      "#DDDBE0",
+      "#B0A8B8"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Night purple",
+    "type": "LINEAR",
+    "colors": [
+      "#3C3044",
+      "#6A6070"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Plum smoke",
+    "type": "AIR",
+    "colors": [
+      "#BEB6C4",
+      "#84788B",
+      "#D4CEDB"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Cork tree mist",
+    "type": "LINEAR",
+    "colors": [
+      "#FEF263",
+      "#707070"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Indigo depth",
+    "type": "LINEAR",
+    "colors": [
+      "#181B3A",
+      "#274A78",
+      "#D6EAF3"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Hanada sky",
+    "type": "CIRCLE",
+    "colors": [
+      "#007BBB",
+      "#A0D8EF",
+      "#EAF4FC"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Cherry haze",
+    "type": "AIR",
+    "colors": [
+      "#FEF4F4",
+      "#EEBBCB",
+      "#F09199"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Crimson dusk",
+    "type": "LINEAR",
+    "colors": [
+      "#D7003A",
+      "#B7282E",
+      "#3C3044"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Bamboo morning",
+    "type": "LINEAR",
+    "colors": [
+      "#D6E9CA",
+      "#68BE8D",
+      "#316745"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Smoke and silk",
+    "type": "LINEAR",
+    "colors": [
+      "#807870",
+      "#DDDDD6"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Rusted garden",
+    "type": "CIRCLE",
+    "colors": [
+      "#5B6F57",
+      "#C8BFAE"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Cinnamon dusk",
+    "type": "ANGULAR",
+    "colors": [
+      "#D2691E",
+      "#DDDDD6",
+      "#36363B"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Madder clouds",
+    "type": "AIR",
+    "colors": [
+      "#B7282E",
+      "#EE7800",
+      "#F8B500",
+      "#FEF263"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Lapis jar",
+    "type": "CUBE",
+    "colors": [
+      "#1E50A2",
+      "#4C6CB3",
+      "#A2D7DD"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Ink room",
+    "type": "LINEAR",
+    "colors": [
+      "#1C1C1C",
+      "#707070",
+      "#DCDDDD"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Celadon water",
+    "type": "CIRCLE",
+    "colors": [
+      "#7EBEA5",
+      "#D6EAF3"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Dusk temple",
+    "type": "CUBE",
+    "colors": [
+      "#6A6070",
+      "#3C3044",
+      "#84788B"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Navy gate",
+    "type": "ARCH",
+    "colors": [
+      "#223A70",
+      "#F09199",
+      "#FDEFF2"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Madder sun",
+    "type": "ARCH",
+    "colors": [
+      "#B7282E",
+      "#EB6101",
+      "#FFF1CF"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Moss hill",
+    "type": "ARCH",
+    "colors": [
+      "#5B6F57",
+      "#A5B7A5",
+      "#F8F4E6"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Blue ocean waves",
+    "type": "WAVE",
+    "colors": [
+      "#EAF4FC",
+      "#A0D8EF",
+      "#007BBB",
+      "#274A78"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Dusk waves",
+    "type": "WAVE",
+    "colors": [
+      "#FDEFF2",
+      "#F4B3C2",
+      "#895B8A",
+      "#3C3044"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Mountain haze",
+    "type": "WAVE",
+    "colors": [
+      "#F8F4E6",
+      "#A5B7A5",
+      "#5B6F57",
+      "#316745"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Sun-kissed skies",
+    "type": "LINEAR",
+    "colors": [
+      "#A0D8EF",
+      "#FFF1CF",
+      "#F5B1AA"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Autumn leaves",
+    "type": "WAVE",
+    "colors": [
+      "#C39143",
+      "#ED6D3D",
+      "#B7282E",
+      "#773C30"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Sunset on the port",
+    "type": "ARCH",
+    "colors": [
+      "#9E3D3F",
+      "#EE7800",
+      "#FFF1CF"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Stardust dream",
+    "type": "AIR",
+    "colors": [
+      "#EAF4FC",
+      "#A59ACA",
+      "#D6BBC6",
+      "#F8E58C"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Jewel tones",
+    "type": "CUBE",
+    "colors": [
+      "#460E44",
+      "#007B43",
+      "#1E50A2"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Coral reef",
+    "type": "AIR",
+    "colors": [
+      "#EBF6F7",
+      "#00A3AF",
+      "#F5B1AA",
+      "#F09199"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Galaxy glow",
+    "type": "CIRCLE",
+    "colors": [
+      "#EAF4FC",
+      "#A59ACA",
+      "#5654A2",
+      "#181B3A"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Twilight sky",
+    "type": "LINEAR",
+    "colors": [
+      "#223A70",
+      "#824880",
+      "#F4B3C2"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Aurora borealis",
+    "type": "WAVE",
+    "colors": [
+      "#181B3A",
+      "#316745",
+      "#68BE8D",
+      "#A2D7DD"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Cherry blossom",
+    "type": "AIR",
+    "colors": [
+      "#FEF4F4",
+      "#FDEFF2",
+      "#EEBBCB",
+      "#F4B3C2"
+    ],
+    "params": {}
+  },
+  {
+    "name": "The starry night",
+    "type": "ANGULAR",
+    "colors": [
+      "#181B3A",
+      "#1E50A2",
+      "#4C6CB3",
+      "#F8E58C"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Cosmic nebula",
+    "type": "AIR",
+    "colors": [
+      "#D6BBC6",
+      "#824880",
+      "#5654A2",
+      "#E95464"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Evening glow",
+    "type": "LINEAR",
+    "colors": [
+      "#B94047",
+      "#F5B1AA",
+      "#FFF1CF"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Ocean tide",
+    "type": "WAVE",
+    "colors": [
+      "#EBF6F7",
+      "#7EBEA5",
+      "#00A3AF",
+      "#008899"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Desert mirage",
+    "type": "LINEAR",
+    "colors": [
+      "#D6C6AF",
+      "#C39143",
+      "#F8E58C"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Silk sky",
+    "type": "IOS",
+    "colors": [
+      "#4C6CB3",
+      "#B28FCE",
+      "#F4B3C2"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Pixel dusk",
+    "type": "PIXEL",
+    "colors": [
+      "#223A70",
+      "#824880",
+      "#F4B3C2",
+      "#FFF1CF"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Iridescent cloud",
+    "type": "FLOW",
+    "colors": [
+      "#EAF4FC",
+      "#1E50A2",
+      "#F09199",
+      "#895B8A"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Ripple",
+    "type": "RING",
+    "colors": [
+      "#EBF6F7",
+      "#A2D7DD",
+      "#00A3AF",
+      "#274A78"
+    ],
+    "params": {
+      "count": 12,
+      "dirX": 0,
+      "dirY": 0,
+      "melt": 8,
+      "glow": 100,
+      "sweep": 100
+    }
+  },
+  {
+    "name": "Sunset pop",
+    "type": "RETRO",
+    "colors": [
+      "#FFF1CF",
+      "#F09199",
+      "#EE7800",
+      "#824880"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Aurora film",
+    "type": "CNOISE",
+    "colors": [
+      "#0C1424",
+      "#3FB8D8",
+      "#FF9A3C",
+      "#E2517B",
+      "#EFEDE6"
+    ],
+    "params": {
+      "angle": 32,
+      "stretch": 62,
+      "spread": 55
+    },
+    "grain": 26
+  },
+  {
+    "name": "Oil film",
+    "type": "FLOW",
+    "colors": [
+      "#181B3A",
+      "#007BBB",
+      "#00A3AF",
+      "#824880",
+      "#F8E58C"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Pearl light",
+    "type": "FLOW",
+    "colors": [
+      "#EAF4FC",
+      "#D6BBC6",
+      "#A2D7DD",
+      "#F8E58C",
+      "#B28FCE"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Tropical night",
+    "type": "FLOW",
+    "colors": [
+      "#0D0D0D",
+      "#460E44",
+      "#824880",
+      "#00A3AF",
+      "#68BE8D"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Thin ice",
+    "type": "AIR",
+    "colors": [
+      "#EBF6F7",
+      "#BCE2E8",
+      "#A2D7DD",
+      "#D6BBC6"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Dusk shadow",
+    "type": "AIR",
+    "colors": [
+      "#FDEFF2",
+      "#F4B3C2",
+      "#B28FCE",
+      "#5654A2"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Coral dream",
+    "type": "AIR",
+    "colors": [
+      "#FFF1CF",
+      "#F5B1AA",
+      "#F09199",
+      "#7EBEA5"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Sunbaked",
+    "type": "RETRO",
+    "colors": [
+      "#FFF1CF",
+      "#F8B500",
+      "#ED6D3D",
+      "#9E3D3F"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Old photograph",
+    "type": "RETRO",
+    "colors": [
+      "#F8F4E6",
+      "#D6C6AF",
+      "#A86F4C",
+      "#5A544B"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Jade pool",
+    "type": "WAVE",
+    "colors": [
+      "#EBF6F7",
+      "#7EBEA5",
+      "#00A3AF",
+      "#274A78"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Wisteria waves",
+    "type": "WAVE",
+    "colors": [
+      "#FDEFF2",
+      "#D4CEDB",
+      "#B28FCE",
+      "#745399"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Embers",
+    "type": "WAVE",
+    "colors": [
+      "#FEF263",
+      "#F8B500",
+      "#EB6101",
+      "#9E3D3F"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Peach morning",
+    "type": "ARCH",
+    "colors": [
+      "#9E3D3F",
+      "#F5B1AA",
+      "#FFF1CF"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Moonrise",
+    "type": "ARCH",
+    "colors": [
+      "#223A70",
+      "#5654A2",
+      "#A59ACA",
+      "#EAF4FC"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Young-leaf hill",
+    "type": "ARCH",
+    "colors": [
+      "#316745",
+      "#68BE8D",
+      "#D6E9CA",
+      "#F8F4E6"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Rose gold",
+    "type": "BALLS",
+    "colors": [
+      "#FFF1CF",
+      "#F5B1AA",
+      "#F09199",
+      "#9E3D3F"
+    ],
+    "params": {},
+    "grain": 18,
+    "soften": 6
+  },
+  {
+    "name": "Amethyst",
+    "type": "BALLS",
+    "colors": [
+      "#EAF4FC",
+      "#A59ACA",
+      "#5654A2",
+      "#3B1E4A"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 6
+  },
+  {
+    "name": "Jade beads",
+    "type": "BALLS",
+    "colors": [
+      "#EBF6F7",
+      "#7EBEA5",
+      "#007B43",
+      "#181B3A"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 6
+  },
+  {
+    "name": "Amber comb",
+    "type": "BEEHIVE",
+    "colors": [
+      "#FFF1CF",
+      "#F8B500",
+      "#EE7800",
+      "#773C30"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Lapis chamber",
+    "type": "BEEHIVE",
+    "colors": [
+      "#EBF6F7",
+      "#A2D7DD",
+      "#007BBB",
+      "#274A78"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Vapor sky",
+    "type": "IOS",
+    "colors": [
+      "#F4B3C2",
+      "#B28FCE",
+      "#A0D8EF"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Gold thread",
+    "type": "IOS",
+    "colors": [
+      "#F8E58C",
+      "#F5B1AA",
+      "#B28FCE"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Sun disc",
+    "type": "CIRCLE",
+    "colors": [
+      "#FFF1CF",
+      "#F8B500",
+      "#EB6101",
+      "#3C3044"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Night ripple",
+    "type": "RING",
+    "colors": [
+      "#EBF6F7",
+      "#A0D8EF",
+      "#5654A2",
+      "#3B1E4A"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Rainbow wheel",
+    "type": "ANGULAR",
+    "colors": [
+      "#E95464",
+      "#F8B500",
+      "#68BE8D",
+      "#4C6CB3",
+      "#895B8A"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Cyber dusk",
+    "type": "PIXEL",
+    "colors": [
+      "#181B3A",
+      "#824880",
+      "#EB6101",
+      "#F8E58C"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Wisteria haze",
+    "type": "AIR",
+    "colors": [
+      "#EAF4FC",
+      "#B28FCE",
+      "#F4B3C2",
+      "#A0D8EF"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Glassy wisteria",
+    "type": "GLASSY",
+    "colors": [
+      "#7A1FD9",
+      "#9D4BEA",
+      "#C77FF2",
+      "#E7C9FA",
+      "#F5F2F8"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 4,
+    "soften": 0
+  },
+  {
+    "name": "Wisteria blossom",
+    "type": "LINEAR",
+    "colors": [
+      "#B28FCE",
+      "#FEF4F4"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Blue sky",
+    "type": "SKY",
+    "colors": [
+      "#E6F2FF",
+      "#B3D9FF",
+      "#80B3FF",
+      "#6699E6"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Northern lights",
+    "type": "AURORA",
+    "colors": [
+      "#EAFFF4",
+      "#4BE8A0",
+      "#2E6E80",
+      "#16224D"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Moonlight",
+    "type": "CIRCLE",
+    "colors": [
+      "#EAF4FC",
+      "#A2D7DD",
+      "#4C6CB3",
+      "#181B3A"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Bamboo fan",
+    "type": "ANGULAR",
+    "colors": [
+      "#316745",
+      "#68BE8D",
+      "#A2D7DD",
+      "#EBF6F7"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Honeycomb",
+    "type": "BEEHIVE",
+    "colors": [
+      "#FFF1CF",
+      "#F8B500",
+      "#EB6101",
+      "#6B3410"
+    ],
+    "params": {}
+  },
+  {
+    "name": "Fairway glass",
+    "type": "BALLS",
+    "colors": [
+      "#E2F8A8",
+      "#78C86B",
+      "#1D9A87",
+      "#0B5968",
+      "#04313C"
+    ],
+    "params": {},
+    "grain": 15,
+    "soften": 4
+  },
+  {
+    "name": "Aqua glow",
+    "type": "GLINT",
+    "colors": [
+      "#E4FCFB",
+      "#A8F2F0",
+      "#5CE3E6",
+      "#17CBD6",
+      "#0F9CC2",
+      "#0C6E9E"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 3
+  },
+  {
+    "name": "Sakura wind",
+    "type": "SMESH",
+    "colors": [
+      "#FFF7F5",
+      "#FFDDE4",
+      "#FFB7C9",
+      "#E98FB4",
+      "#B76AA0",
+      "#7A4E86"
+    ],
+    "params": {
+      "positions": 22,
+      "waveX": 95,
+      "waveXShift": 10,
+      "waveY": 100,
+      "waveYShift": 45,
+      "mixing": 78,
+      "grain": 0,
+      "rotation": 340
+    },
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Ocean",
+    "type": "SILK",
+    "colors": [
+      "#0A2A5E",
+      "#11479A",
+      "#2670D1",
+      "#5A9BE8",
+      "#9CC6F5",
+      "#DCEDFF"
+    ],
+    "params": {
+      "angle": 44,
+      "seed": 42,
+      "folds": 6,
+      "warp": 76,
+      "streak": 50
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Morning mist",
+    "type": "MIST",
+    "colors": [
+      "#FBF2E2",
+      "#F3DDC2",
+      "#D9BCAE",
+      "#B08F9B",
+      "#7A6483",
+      "#463A5E"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 0
+  },
+  {
+    "name": "San Francisco",
+    "type": "SKYLINE",
+    "colors": [
+      "#FFE7B8",
+      "#FFC97A",
+      "#FCA24E",
+      "#F07333",
+      "#D14E28",
+      "#8E2F1E"
+    ],
+    "params": {},
+    "grain": 18,
+    "soften": 3
+  },
+  {
+    "name": "Pixel wisteria",
+    "type": "PIXEL",
+    "colors": [
+      "#8616E4",
+      "#9F39E7",
+      "#D597F1",
+      "#CC95F7",
+      "#F1F1F1"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Sunset bands",
+    "type": "STRIPE",
+    "colors": [
+      "#FFF1CF",
+      "#F8B500",
+      "#EB6101",
+      "#824880"
+    ],
+    "params": {
+      "angle": 0,
+      "softness": 26,
+      "wave": 12
+    },
+    "speed": 26,
+    "grain": 4
+  },
+  {
+    "name": "Soundwave",
+    "type": "BARS",
+    "colors": [
+      "#121519",
+      "#22406F",
+      "#345CB5",
+      "#3480D8",
+      "#34B2D7",
+      "#A8F0C8"
+    ],
+    "params": {
+      "count": 7,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Morning haze",
+    "type": "COLS",
+    "colors": [
+      "#FBF3E7",
+      "#F4B3C2",
+      "#B28FCE",
+      "#5654A2"
+    ],
+    "params": {
+      "count": 18,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Ultraviolet",
+    "type": "PRISM",
+    "colors": [
+      "#1E3AB8",
+      "#7FA8F0",
+      "#8E5BE8",
+      "#C078F0",
+      "#F8B8E8"
+    ],
+    "params": {
+      "count": 11,
+      "gap": 0,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Snake",
+    "type": "LINE",
+    "colors": [
+      "#F5F6F8",
+      "#A9C9F0",
+      "#4E86D6",
+      "#1B4FA0",
+      "#0B2B57"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Indigo dawn",
+    "type": "LINEAR",
+    "colors": [
+      "#274A78",
+      "#EBF6F7"
+    ],
+    "params": {},
+    "grain": 14,
+    "soften": 6
+  },
+  {
+    "name": "Persimmon cream",
+    "type": "LINEAR",
+    "colors": [
+      "#ED6D3D",
+      "#FFF1CF"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 6
+  },
+  {
+    "name": "Bamboo silk",
+    "type": "LINEAR",
+    "colors": [
+      "#68BE8D",
+      "#F8F4E6"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 6
+  },
+  {
+    "name": "Ink wash",
+    "type": "LINEAR",
+    "colors": [
+      "#36363B",
+      "#DCDDDD"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 4
+  },
+  {
+    "name": "Madder dusk",
+    "type": "SKY",
+    "colors": [
+      "#FFE3C7",
+      "#F2B8A0",
+      "#C77E9E",
+      "#7A5E9E"
+    ],
+    "params": {},
+    "speed": 20,
+    "grain": 6
+  },
+  {
+    "name": "Golden hour",
+    "type": "SKY",
+    "colors": [
+      "#FFF3D6",
+      "#FFD9A0",
+      "#FFAE66",
+      "#E07A52"
+    ],
+    "params": {
+      "scale": 45,
+      "distortion": 54,
+      "swirl": 34
+    },
+    "speed": 18,
+    "grain": 5
+  },
+  {
+    "name": "Night sky",
+    "type": "SKY",
+    "colors": [
+      "#B9C8F2",
+      "#6E7FBF",
+      "#4A5AA0",
+      "#33406E"
+    ],
+    "params": {
+      "scale": 42,
+      "distortion": 46,
+      "swirl": 28
+    },
+    "speed": 14,
+    "grain": 8
+  },
+  {
+    "name": "Storm light",
+    "type": "SKY",
+    "colors": [
+      "#E8EAEE",
+      "#B7BDC9",
+      "#8C94A4",
+      "#596273"
+    ],
+    "params": {
+      "scale": 52,
+      "distortion": 62,
+      "swirl": 58
+    },
+    "speed": 30,
+    "grain": 8
+  },
+  {
+    "name": "Blossom sky",
+    "type": "SKY",
+    "colors": [
+      "#FFEFF6",
+      "#F2C4DC",
+      "#C9A6E8",
+      "#7E8FD0"
+    ],
+    "params": {},
+    "speed": 22,
+    "grain": 4
+  },
+  {
+    "name": "Mint sky",
+    "type": "SKY",
+    "colors": [
+      "#EAFBF4",
+      "#A9E6D2",
+      "#64BFC2",
+      "#3E7FA6"
+    ],
+    "params": {},
+    "speed": 22,
+    "grain": 4
+  },
+  {
+    "name": "Coral haze",
+    "type": "SKY",
+    "colors": [
+      "#FFEDE8",
+      "#FFC2B0",
+      "#F28C9C",
+      "#D96C8F"
+    ],
+    "params": {
+      "scale": 48,
+      "distortion": 52,
+      "swirl": 36
+    },
+    "speed": 20,
+    "grain": 5
+  },
+  {
+    "name": "Grape dusk",
+    "type": "SKY",
+    "colors": [
+      "#EFD9FF",
+      "#C9A6F2",
+      "#9B7BD9",
+      "#6E5AB8"
+    ],
+    "params": {
+      "scale": 44,
+      "distortion": 50,
+      "swirl": 30
+    },
+    "speed": 18,
+    "grain": 6
+  },
+  {
+    "name": "Deep sea",
+    "type": "SKY",
+    "colors": [
+      "#C7F2EC",
+      "#6FC2C4",
+      "#3E8FA8",
+      "#2A5E8C"
+    ],
+    "params": {
+      "scale": 46,
+      "distortion": 56,
+      "swirl": 40
+    },
+    "speed": 22,
+    "grain": 6
+  },
+  {
+    "name": "Ink sky",
+    "type": "SKY",
+    "colors": [
+      "#F2F2F0",
+      "#C4C6C9",
+      "#8E9094",
+      "#55585E"
+    ],
+    "params": {
+      "scale": 48,
+      "distortion": 58,
+      "swirl": 44
+    },
+    "speed": 24,
+    "grain": 10
+  },
+  {
+    "name": "Crimson sky",
+    "type": "SKY",
+    "colors": [
+      "#FFD9D0",
+      "#F29A8C",
+      "#D9556B",
+      "#A63D6E"
+    ],
+    "params": {
+      "scale": 44,
+      "distortion": 56,
+      "swirl": 36
+    },
+    "speed": 20,
+    "grain": 6
+  },
+  {
+    "name": "Violet crown",
+    "type": "AURORA",
+    "colors": [
+      "#F4E6FF",
+      "#C08BF5",
+      "#5A4A9E",
+      "#241A4D"
+    ],
+    "params": {
+      "scale": 43,
+      "distortion": 70,
+      "swirl": 36
+    },
+    "speed": 22,
+    "grain": 6
+  },
+  {
+    "name": "Polar dawn",
+    "type": "AURORA",
+    "colors": [
+      "#FFF2E2",
+      "#FFAE6E",
+      "#8A5A9E",
+      "#2E2358"
+    ],
+    "params": {
+      "scale": 59,
+      "distortion": 45,
+      "swirl": 24,
+      "dir": 3
+    },
+    "speed": 16,
+    "grain": 6
+  },
+  {
+    "name": "Rose curtain",
+    "type": "AURORA",
+    "colors": [
+      "#FFE9F2",
+      "#F79CC0",
+      "#8A4E8C",
+      "#331C4E"
+    ],
+    "params": {
+      "scale": 40,
+      "distortion": 78,
+      "swirl": 48
+    },
+    "speed": 26,
+    "grain": 6
+  },
+  {
+    "name": "Emerald night",
+    "type": "AURORA",
+    "colors": [
+      "#EDFFEB",
+      "#5FE896",
+      "#2E7A6A",
+      "#132B45"
+    ],
+    "params": {
+      "scale": 48,
+      "distortion": 65,
+      "swirl": 58
+    },
+    "speed": 30,
+    "grain": 8
+  },
+  {
+    "name": "Ice dome",
+    "type": "AURORA",
+    "colors": [
+      "#EAFBFF",
+      "#7ADCF0",
+      "#4A6EA8",
+      "#1C2A52"
+    ],
+    "params": {
+      "scale": 65,
+      "distortion": 30,
+      "swirl": 14
+    },
+    "speed": 12,
+    "grain": 6
+  },
+  {
+    "name": "Solar storm",
+    "type": "AURORA",
+    "colors": [
+      "#FFF6D8",
+      "#FFC964",
+      "#9A5A74",
+      "#3A2350"
+    ],
+    "params": {
+      "scale": 45,
+      "distortion": 95,
+      "swirl": 75
+    },
+    "speed": 38,
+    "grain": 8
+  },
+  {
+    "name": "Ghost light",
+    "type": "AURORA",
+    "colors": [
+      "#F4F8FF",
+      "#BFD4EE",
+      "#5C749A",
+      "#232E4A"
+    ],
+    "params": {
+      "scale": 51,
+      "distortion": 45,
+      "swirl": 18,
+      "dir": 2
+    },
+    "speed": 14,
+    "grain": 8
+  },
+  {
+    "name": "Rising sun",
+    "type": "CIRCLE",
+    "colors": [
+      "#FFF1CF",
+      "#F8B500",
+      "#EB6101",
+      "#9E3D3F"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 10
+  },
+  {
+    "name": "Cherry orb",
+    "type": "CIRCLE",
+    "colors": [
+      "#FEF4F4",
+      "#EEBBCB",
+      "#B28FCE",
+      "#3C3044"
+    ],
+    "params": {},
+    "grain": 14,
+    "soften": 10
+  },
+  {
+    "name": "Celadon mist",
+    "type": "CIRCLE",
+    "colors": [
+      "#EBF6F7",
+      "#7EBEA5",
+      "#316745"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 12
+  },
+  {
+    "name": "Lamplight",
+    "type": "CIRCLE",
+    "colors": [
+      "#F8E58C",
+      "#ED6D3D",
+      "#773C30"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 12
+  },
+  {
+    "name": "Twilight wheel",
+    "type": "ANGULAR",
+    "colors": [
+      "#223A70",
+      "#824880",
+      "#F4B3C2",
+      "#A0D8EF"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 5
+  },
+  {
+    "name": "Harvest turn",
+    "type": "ANGULAR",
+    "colors": [
+      "#B7282E",
+      "#EE7800",
+      "#F8B500",
+      "#FFF1CF"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 4
+  },
+  {
+    "name": "Sea swirl",
+    "type": "ANGULAR",
+    "colors": [
+      "#008899",
+      "#A2D7DD",
+      "#EAF4FC",
+      "#4C6CB3"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 5
+  },
+  {
+    "name": "Ink orbit",
+    "type": "ANGULAR",
+    "colors": [
+      "#1C1C1C",
+      "#707070",
+      "#DCDDDD"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 4
+  },
+  {
+    "name": "Beeswax",
+    "type": "BEEHIVE",
+    "colors": [
+      "#FFF7E0",
+      "#F8D66D",
+      "#E0A526",
+      "#8A5A12"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 8
+  },
+  {
+    "name": "Coral comb",
+    "type": "BEEHIVE",
+    "colors": [
+      "#FDEFF2",
+      "#F5B1AA",
+      "#ED6D3D",
+      "#9E3D3F"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 8
+  },
+  {
+    "name": "Jade comb",
+    "type": "BEEHIVE",
+    "colors": [
+      "#EBF6F7",
+      "#7EBEA5",
+      "#316745",
+      "#1B3A2B"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 8
+  },
+  {
+    "name": "Aqua drive",
+    "type": "BALLS",
+    "colors": [
+      "#CBF8F1",
+      "#56C9D0",
+      "#0E8DBB",
+      "#074F8C",
+      "#041E45"
+    ],
+    "params": {},
+    "grain": 9,
+    "soften": 4
+  },
+  {
+    "name": "Frosted blue",
+    "type": "BALLS",
+    "colors": [
+      "#E8FAF6",
+      "#B7E2DE",
+      "#73B4BE",
+      "#2A7487",
+      "#063747"
+    ],
+    "params": {},
+    "grain": 7,
+    "soften": 5
+  },
+  {
+    "name": "Champagne cup",
+    "type": "BALLS",
+    "colors": [
+      "#FFF9DE",
+      "#F7DEA0",
+      "#CFA25A",
+      "#815926",
+      "#2C1A0A"
+    ],
+    "params": {},
+    "grain": 9,
+    "soften": 4
+  },
+  {
+    "name": "Night tee",
+    "type": "BALLS",
+    "colors": [
+      "#78E4DA",
+      "#0C90B7",
+      "#075D87",
+      "#08274A",
+      "#030613"
+    ],
+    "params": {},
+    "grain": 11,
+    "soften": 5
+  },
+  {
+    "name": "Coral dawn",
+    "type": "AIR",
+    "colors": [
+      "#FFF1CF",
+      "#C39143",
+      "#F09199",
+      "#ED6D3D"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 6
+  },
+  {
+    "name": "Matcha air",
+    "type": "AIR",
+    "colors": [
+      "#F8F4E6",
+      "#A8C97F",
+      "#7EBEA5",
+      "#D6E9CA"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 6
+  },
+  {
+    "name": "Peach smoke",
+    "type": "AIR",
+    "colors": [
+      "#FDEFF2",
+      "#F5B1AA",
+      "#D6BBC6",
+      "#F8E58C"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 8
+  },
+  {
+    "name": "Deep sea",
+    "type": "AIR",
+    "colors": [
+      "#EBF6F7",
+      "#008899",
+      "#274A78",
+      "#68BE8D"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 6
+  },
+  {
+    "name": "Club flyer",
+    "type": "CUBE",
+    "colors": [
+      "#08070E",
+      "#170D33",
+      "#3A1470",
+      "#7C16B8",
+      "#D61FD6",
+      "#FF6BE9"
+    ],
+    "params": {},
+    "grain": 14,
+    "soften": 0
+  },
+  {
+    "name": "Festival poster",
+    "type": "CUBE",
+    "colors": [
+      "#2A1238",
+      "#6E2D55",
+      "#C25563",
+      "#F58F6C",
+      "#FFC9A0",
+      "#FFF1DC"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 2
+  },
+  {
+    "name": "Open house",
+    "type": "CUBE",
+    "colors": [
+      "#FFF6E8",
+      "#F2C879",
+      "#D98E4A",
+      "#A85B38",
+      "#5C3327",
+      "#241713"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Magazine cover",
+    "type": "CUBE",
+    "colors": [
+      "#F7FBF8",
+      "#DDF0E6",
+      "#BCE3D2",
+      "#93CDB6",
+      "#63AC93",
+      "#3B7F6B"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Product drop",
+    "type": "CUBE",
+    "colors": [
+      "#FFF3F7",
+      "#FFC1DD",
+      "#FF7EB6",
+      "#B84BD8",
+      "#5A2ECC",
+      "#221459"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Film banner",
+    "type": "CUBE",
+    "colors": [
+      "#F2F3F7",
+      "#C3CFE0",
+      "#8195B4",
+      "#455A78",
+      "#16202E"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Desert doc",
+    "type": "CUBE",
+    "colors": [
+      "#FBF6EC",
+      "#F1D9A8",
+      "#D9A566",
+      "#9A6A44",
+      "#4C3626",
+      "#1E150F"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 0
+  },
+  {
+    "name": "Conference hero",
+    "type": "CUBE",
+    "colors": [
+      "#F3F6F9",
+      "#C7D8E8",
+      "#8FB0CC",
+      "#5580A6",
+      "#2D4E70",
+      "#122636"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Keynote deck",
+    "type": "CUBE",
+    "colors": [
+      "#E9EFFB",
+      "#A9C4F2",
+      "#4F7BE0",
+      "#1D3FA8",
+      "#0A1A45"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Album cover",
+    "type": "CUBE",
+    "colors": [
+      "#F2F2F0",
+      "#C9C9C6",
+      "#8F8F8C",
+      "#565654",
+      "#232322"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 0
+  },
+  {
+    "name": "Exhibition poster",
+    "type": "CUBE",
+    "colors": [
+      "#F4EFE4",
+      "#FF4438",
+      "#20286B",
+      "#FF9FBB",
+      "#141A34"
+    ],
+    "params": {},
+    "grain": 4,
+    "soften": 0
+  },
+  {
+    "name": "Aubergine dusk",
+    "type": "ARCH",
+    "colors": [
+      "#460E44",
+      "#895B8A",
+      "#D4CEDB"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 0
+  },
+  {
+    "name": "Amber gate",
+    "type": "ARCH",
+    "colors": [
+      "#773C30",
+      "#BF783A",
+      "#F8E58C"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Sunset sea",
+    "type": "WAVE",
+    "colors": [
+      "#FFF3E0",
+      "#FFC9A3",
+      "#F08A8C",
+      "#7E4E75",
+      "#34315E"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 4
+  },
+  {
+    "name": "Rose dawn",
+    "type": "WAVE",
+    "colors": [
+      "#FEF4F0",
+      "#FBD9D3",
+      "#EFA6AE",
+      "#A9678F",
+      "#54395F"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 4
+  },
+  {
+    "name": "Lavender dusk",
+    "type": "WAVE",
+    "colors": [
+      "#F9F5FD",
+      "#D3BFF0",
+      "#9678CE",
+      "#5A4899",
+      "#262347"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 4
+  },
+  {
+    "name": "Moonlit swell",
+    "type": "WAVE",
+    "colors": [
+      "#E3ECF9",
+      "#A9C0E4",
+      "#5F7AB6",
+      "#2F3F76",
+      "#131A3C"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 4
+  },
+  {
+    "name": "Matcha hills",
+    "type": "WAVE",
+    "colors": [
+      "#FAF7EA",
+      "#DCE9C8",
+      "#A3C99A",
+      "#5F9271",
+      "#2F5947"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 4
+  },
+  {
+    "name": "Golden dunes",
+    "type": "WAVE",
+    "colors": [
+      "#FFF6DE",
+      "#FBDCA0",
+      "#EBAE60",
+      "#B4652F",
+      "#5E2F14"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 4
+  },
+  {
+    "name": "Ink tide",
+    "type": "WAVE",
+    "colors": [
+      "#DCDDDD",
+      "#888084",
+      "#36363B"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 4
+  },
+  {
+    "name": "Cinder",
+    "type": "LINE",
+    "colors": [
+      "#16110F",
+      "#FFD9A0",
+      "#FF8A3C",
+      "#E8382F",
+      "#A01F4B"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 0
+  },
+  {
+    "name": "Vivid",
+    "type": "LINE",
+    "colors": [
+      "#F5F5F7",
+      "#5AC8FA",
+      "#0A84FF",
+      "#5E5CE6",
+      "#BF5AF2",
+      "#FF375F",
+      "#FF9F0A"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Rainbow",
+    "type": "LINE",
+    "colors": [
+      "#F7F5F1",
+      "#2E5BE8",
+      "#25C4B8",
+      "#A8D848",
+      "#FFC53D",
+      "#FF7A2E",
+      "#EE3D8E",
+      "#9A34D8",
+      "#4A54E8"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Droplets",
+    "type": "LINE",
+    "colors": [
+      "#F4F3F5",
+      "#8FE060",
+      "#28E0C8",
+      "#3E8AF0",
+      "#4A50E8",
+      "#9A5AE8",
+      "#E8489A",
+      "#F0605A",
+      "#FFAA4E"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Blossom",
+    "type": "LINE",
+    "colors": [
+      "#FFF6EC",
+      "#FFB7C5",
+      "#F0879E",
+      "#B28FCE",
+      "#7FB8E8"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Night",
+    "type": "LINE",
+    "colors": [
+      "#151833",
+      "#F2F8FF",
+      "#8FB4FF",
+      "#2F49E0"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 0
+  },
+  {
+    "name": "Sunset",
+    "type": "LINE",
+    "colors": [
+      "#FFF1E0",
+      "#FFC94D",
+      "#FF9F45",
+      "#FF5E62",
+      "#D9418F",
+      "#6E4FD8"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Candy",
+    "type": "LINE",
+    "colors": [
+      "#FFF6F8",
+      "#FF4FA0",
+      "#FF3B30",
+      "#FF9500",
+      "#FFCC00",
+      "#AF52DE"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Peach",
+    "type": "LINE",
+    "colors": [
+      "#FAD2A6",
+      "#FFDF94",
+      "#FFAE62",
+      "#F28AA0",
+      "#E86380"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Rosewater",
+    "type": "LINE",
+    "colors": [
+      "#EFEFF1",
+      "#FFC9CB",
+      "#FF9FA4",
+      "#F2707E"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Prism",
+    "type": "LINE",
+    "colors": [
+      "#FFFFFF",
+      "#E8174C",
+      "#8A2BD9",
+      "#2222E8",
+      "#2EE87A",
+      "#D8E84A",
+      "#F5A0C0",
+      "#F0B040"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Lavender",
+    "type": "LINE",
+    "colors": [
+      "#F6F4F0",
+      "#C6BEF0",
+      "#9484E0",
+      "#6E5AC8"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Marine",
+    "type": "LINE",
+    "colors": [
+      "#F8F7F4",
+      "#7ADCD0",
+      "#3E9EC0",
+      "#3A5BAE",
+      "#28306E"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Plum dusk",
+    "type": "LINE",
+    "colors": [
+      "#2A1633",
+      "#FFD9A0",
+      "#FF9B7A",
+      "#F0679E",
+      "#B06AD8"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 0
+  },
+  {
+    "name": "Royal",
+    "type": "LINE",
+    "colors": [
+      "#2E5BD8",
+      "#F5D93C",
+      "#3FBD5A",
+      "#FF8A3C",
+      "#E8497E",
+      "#8A5BE8",
+      "#FF5A2A"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 0
+  },
+  {
+    "name": "Neon night",
+    "type": "LINE",
+    "colors": [
+      "#14162B",
+      "#7ADCF0",
+      "#7B8CFF",
+      "#C08BF5",
+      "#FF8FC8"
+    ],
+    "params": {},
+    "grain": 10,
+    "soften": 0
+  },
+  {
+    "name": "Ink lines",
+    "type": "LINE",
+    "colors": [
+      "#F5F2EA",
+      "#C9C6BC",
+      "#8E9094",
+      "#36363B"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Lime pop",
+    "type": "LINE",
+    "colors": [
+      "#A8CE3B",
+      "#57B8E8",
+      "#3E6FD9",
+      "#2E4BB5"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Emerald reef",
+    "type": "GLINT",
+    "colors": [
+      "#E6FBF2",
+      "#ABF0D9",
+      "#63DEBB",
+      "#22C79A",
+      "#12A183",
+      "#0B7161"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 3
+  },
+  {
+    "name": "Sky lagoon",
+    "type": "GLINT",
+    "colors": [
+      "#EAF6FF",
+      "#CFE9FD",
+      "#A9D6F7",
+      "#7ABDEF",
+      "#4E9BE0",
+      "#2E77C4"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 3
+  },
+  {
+    "name": "Aurora tide",
+    "type": "GLINT",
+    "colors": [
+      "#CFF6F0",
+      "#8FE3E4",
+      "#5FB8D6",
+      "#6E82CE",
+      "#4A468F",
+      "#1E2350"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 3
+  },
+  {
+    "name": "Iridescent reef",
+    "type": "GLINT",
+    "colors": [
+      "#D9F6F4",
+      "#9BE0E8",
+      "#86B6E6",
+      "#9E7FD8",
+      "#8E4E9E",
+      "#2A1E4E"
+    ],
+    "params": {},
+    "grain": 9,
+    "soften": 3
+  },
+  {
+    "name": "Coral sunrise",
+    "type": "GLINT",
+    "colors": [
+      "#FFEBD6",
+      "#FFC9B4",
+      "#FF9FA6",
+      "#D98BA6",
+      "#8A76B0",
+      "#3E4676"
+    ],
+    "params": {},
+    "grain": 7,
+    "soften": 3
+  },
+  {
+    "name": "Golden hour",
+    "type": "GLINT",
+    "colors": [
+      "#FFF0D4",
+      "#FFD9A0",
+      "#FFB07C",
+      "#F47C6D",
+      "#9E4E74",
+      "#2E2A5E"
+    ],
+    "params": {},
+    "grain": 8,
+    "soften": 3
+  },
+  {
+    "name": "Orchid glow",
+    "type": "GLINT",
+    "colors": [
+      "#FDECF6",
+      "#F0D6F2",
+      "#D3B4F0",
+      "#AC90E8",
+      "#7C63D2",
+      "#4A3894"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 3
+  },
+  {
+    "name": "Mint lagoon",
+    "type": "GLINT",
+    "colors": [
+      "#EFFBF4",
+      "#C8F1E1",
+      "#8FE2CB",
+      "#52CBB0",
+      "#27A78D",
+      "#147A5F"
+    ],
+    "params": {},
+    "grain": 5,
+    "soften": 4
+  },
+  {
+    "name": "Rose gold",
+    "type": "GLINT",
+    "colors": [
+      "#FFF0DE",
+      "#FFDCC0",
+      "#FBC1A8",
+      "#EDA9A8",
+      "#B891A9",
+      "#4E5A86"
+    ],
+    "params": {},
+    "grain": 6,
+    "soften": 4
+  },
+  {
+    "name": "Cotton candy",
+    "type": "GLINT",
+    "colors": [
+      "#FCEBF1",
+      "#F8CFE0",
+      "#E6B4D2",
+      "#B7A6D6",
+      "#8A93CE",
+      "#565F9B"
+    ],
+    "params": {},
+    "grain": 5,
+    "soften": 4
+  },
+  {
+    "name": "Lavender dream",
+    "type": "GLINT",
+    "colors": [
+      "#F1E9FF",
+      "#DCCEFB",
+      "#C0B6F6",
+      "#9BA4EE",
+      "#7385E0",
+      "#5566C9"
+    ],
+    "params": {},
+    "grain": 5,
+    "soften": 4
+  },
+  {
+    "name": "Sea sparkle",
+    "type": "GLINT",
+    "colors": [
+      "#D6CEC0",
+      "#DAD1C2",
+      "#C7C6BA",
+      "#8A9490",
+      "#6E8288",
+      "#5E7684",
+      "#54697A"
+    ],
+    "params": {},
+    "grain": 5,
+    "soften": 3
+  },
+  {
+    "name": "Sapphire",
+    "type": "SILK",
+    "colors": [
+      "#0F1F5C",
+      "#1E3A9E",
+      "#3C63D6",
+      "#6F95EE",
+      "#A9C4F8",
+      "#E2ECFF"
+    ],
+    "params": {
+      "angle": 38,
+      "seed": 30,
+      "folds": 6,
+      "warp": 72,
+      "streak": 42
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Gold",
+    "type": "SILK",
+    "colors": [
+      "#5A3A08",
+      "#9A6712",
+      "#D69A23",
+      "#F2C24C",
+      "#FFE08A",
+      "#FFF4C8"
+    ],
+    "params": {
+      "angle": 48,
+      "seed": 51,
+      "folds": 6,
+      "warp": 80,
+      "streak": 55
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Fuchsia",
+    "type": "SILK",
+    "colors": [
+      "#5A1246",
+      "#98207A",
+      "#D33FAE",
+      "#EE72C8",
+      "#F9A9DF",
+      "#FFDDF3"
+    ],
+    "params": {
+      "angle": 46,
+      "seed": 69,
+      "folds": 6,
+      "warp": 70,
+      "streak": 44
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Emerald",
+    "type": "SILK",
+    "colors": [
+      "#0B3D2E",
+      "#136B4E",
+      "#1F9E73",
+      "#4CC79A",
+      "#8FE3C0",
+      "#D5F7E8"
+    ],
+    "params": {
+      "angle": 42,
+      "seed": 3,
+      "folds": 6,
+      "warp": 74,
+      "streak": 48
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Silver",
+    "type": "SILK",
+    "colors": [
+      "#2B2B36",
+      "#55556A",
+      "#8B8BA5",
+      "#B9B9CF",
+      "#DEDEEB",
+      "#F7F7FB"
+    ],
+    "params": {
+      "angle": 45,
+      "seed": 57,
+      "folds": 6,
+      "warp": 74,
+      "streak": 50
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Amethyst",
+    "type": "SILK",
+    "colors": [
+      "#2E1152",
+      "#5B2699",
+      "#8A46D6",
+      "#AE78EA",
+      "#CFA9F5",
+      "#EDE0FD"
+    ],
+    "params": {
+      "angle": 44,
+      "seed": 16,
+      "folds": 6,
+      "warp": 76,
+      "streak": 50
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Ember",
+    "type": "SILK",
+    "colors": [
+      "#5C1E0E",
+      "#A0361A",
+      "#DD5A2D",
+      "#F58652",
+      "#FFB48A",
+      "#FFE0CB"
+    ],
+    "params": {
+      "angle": 40,
+      "seed": 15,
+      "folds": 6,
+      "warp": 80,
+      "streak": 55
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Teal",
+    "type": "SILK",
+    "colors": [
+      "#083E44",
+      "#0E6D75",
+      "#1AA2A8",
+      "#4CC9CC",
+      "#8FE6E5",
+      "#D6F8F6"
+    ],
+    "params": {
+      "angle": 38,
+      "seed": 29,
+      "folds": 6,
+      "warp": 74,
+      "streak": 50
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Coral",
+    "type": "SILK",
+    "colors": [
+      "#4A1526",
+      "#8C2444",
+      "#C8425F",
+      "#EE7A7F",
+      "#FFB09C",
+      "#FFE0D2"
+    ],
+    "params": {
+      "angle": 40,
+      "seed": 2,
+      "folds": 6,
+      "warp": 72,
+      "streak": 48
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Ruby",
+    "type": "SILK",
+    "colors": [
+      "#4F0F24",
+      "#8E1B3E",
+      "#C63359",
+      "#E65C7E",
+      "#F594AB",
+      "#FFD3DE"
+    ],
+    "params": {
+      "angle": 50,
+      "seed": 18,
+      "folds": 6,
+      "warp": 78,
+      "streak": 52
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Olive",
+    "type": "SILK",
+    "colors": [
+      "#2E3D0F",
+      "#556E1E",
+      "#7F9E34",
+      "#A9C25A",
+      "#CFDD92",
+      "#EEF5CF"
+    ],
+    "params": {
+      "angle": 52,
+      "seed": 1,
+      "folds": 5,
+      "warp": 76,
+      "streak": 44
+    },
+    "grain": 0,
+    "soften": 0
+  },
+  {
+    "name": "Morning dew",
+    "type": "SMESH",
+    "colors": [
+      "#FBF8F1",
+      "#E4EFE7",
+      "#BFD9CD",
+      "#8FBBAE",
+      "#EFDCCE",
+      "#5E9188"
+    ],
+    "params": {
+      "positions": 12,
+      "waveX": 90,
+      "waveXShift": 20,
+      "waveY": 80,
+      "waveYShift": 65,
+      "mixing": 62,
+      "grain": 0,
+      "rotation": 135
+    },
+    "grain": 5,
+    "soften": 0
+  },
+  {
+    "name": "Wisteria dusk",
+    "type": "SMESH",
+    "colors": [
+      "#F4EFFA",
+      "#DCCEF2",
+      "#B39EE0",
+      "#8672C4",
+      "#5C4E9E",
+      "#2F2A66"
+    ],
+    "params": {
+      "positions": 33,
+      "waveX": 95,
+      "waveXShift": 5,
+      "waveY": 90,
+      "waveYShift": 55,
+      "mixing": 58,
+      "grain": 0,
+      "rotation": 45
+    },
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Amber tea",
+    "type": "SMESH",
+    "colors": [
+      "#FFF8E8",
+      "#F7DFB1",
+      "#E8B978",
+      "#C98B4E",
+      "#8F5A34",
+      "#4A3220"
+    ],
+    "params": {
+      "positions": 35,
+      "waveX": 65,
+      "waveXShift": 20,
+      "waveY": 85,
+      "waveYShift": 60,
+      "mixing": 60,
+      "grain": 0,
+      "rotation": 0
+    },
+    "grain": 7,
+    "soften": 0
+  },
+  {
+    "name": "Deep sea",
+    "type": "SMESH",
+    "colors": [
+      "#0A1420",
+      "#14324A",
+      "#1F5D74",
+      "#3E8F94",
+      "#7FC4B2",
+      "#D8EFDD"
+    ],
+    "params": {
+      "positions": 81,
+      "waveX": 90,
+      "waveXShift": 40,
+      "waveY": 95,
+      "waveYShift": 22,
+      "mixing": 72,
+      "grain": 0,
+      "rotation": 180
+    },
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Ember glow",
+    "type": "SMESH",
+    "colors": [
+      "#1C1013",
+      "#4A1E2A",
+      "#8A3648",
+      "#D65D53",
+      "#F79E72",
+      "#FFE0B8"
+    ],
+    "params": {
+      "positions": 14,
+      "waveX": 88,
+      "waveXShift": 62,
+      "waveY": 78,
+      "waveYShift": 48,
+      "mixing": 55,
+      "grain": 0,
+      "rotation": 45
+    },
+    "grain": 8,
+    "soften": 0
+  },
+  {
+    "name": "Matcha cream",
+    "type": "SMESH",
+    "colors": [
+      "#F8F6EC",
+      "#E5E8D2",
+      "#C3D3A8",
+      "#94B37D",
+      "#5F8A5C",
+      "#2F5443"
+    ],
+    "params": {
+      "positions": 76,
+      "waveX": 88,
+      "waveXShift": 42,
+      "waveY": 70,
+      "waveYShift": 12,
+      "mixing": 70,
+      "grain": 0,
+      "rotation": 0
+    },
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Hydrangea rain",
+    "type": "SMESH",
+    "colors": [
+      "#EFF3F8",
+      "#CFDCEE",
+      "#A8BEE4",
+      "#8B9BD6",
+      "#8378BC",
+      "#5F5290"
+    ],
+    "params": {
+      "positions": 63,
+      "waveX": 92,
+      "waveXShift": 48,
+      "waveY": 88,
+      "waveYShift": 70,
+      "mixing": 80,
+      "grain": 12,
+      "rotation": 90
+    },
+    "grain": 5,
+    "soften": 0
+  },
+  {
+    "name": "Peach silk",
+    "type": "SMESH",
+    "colors": [
+      "#FFF4EC",
+      "#FFD9C7",
+      "#FFAFA5",
+      "#F386A0",
+      "#C06BA5",
+      "#6E4E94"
+    ],
+    "params": {
+      "positions": 66,
+      "waveX": 90,
+      "waveXShift": 35,
+      "waveY": 100,
+      "waveYShift": 12,
+      "mixing": 55,
+      "grain": 0,
+      "rotation": 90
+    },
+    "grain": 5,
+    "soften": 0
+  },
+  {
+    "name": "Indigo dye",
+    "type": "SMESH",
+    "colors": [
+      "#F2F6F7",
+      "#C9DCE2",
+      "#8FB4C4",
+      "#52829F",
+      "#2C5578",
+      "#16304F"
+    ],
+    "params": {
+      "positions": 90,
+      "waveX": 75,
+      "waveXShift": 35,
+      "waveY": 60,
+      "waveYShift": 18,
+      "mixing": 50,
+      "grain": 0,
+      "rotation": 0
+    },
+    "grain": 7,
+    "soften": 0
+  },
+  {
+    "name": "Golden hour",
+    "type": "SMESH",
+    "colors": [
+      "#FFF4E0",
+      "#FFD9A6",
+      "#F4A97C",
+      "#D67D7A",
+      "#9E5E85",
+      "#513B6E"
+    ],
+    "params": {
+      "positions": 83,
+      "waveX": 92,
+      "waveXShift": 15,
+      "waveY": 88,
+      "waveYShift": 62,
+      "mixing": 58,
+      "grain": 0,
+      "rotation": 45
+    },
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Obsidian",
+    "type": "SMESH",
+    "colors": [
+      "#0B0B0F",
+      "#23222E",
+      "#4A4460",
+      "#8A7C9E",
+      "#CBB8CE",
+      "#F4E9E2"
+    ],
+    "params": {
+      "positions": 8,
+      "waveX": 95,
+      "waveXShift": 50,
+      "waveY": 85,
+      "waveYShift": 25,
+      "mixing": 65,
+      "grain": 10,
+      "rotation": 180
+    },
+    "grain": 9,
+    "soften": 0
+  },
+  {
+    "name": "Blue hour",
+    "type": "MIST",
+    "colors": [
+      "#EAF2F9",
+      "#D3E3F0",
+      "#A9C4DB",
+      "#7FA0C2",
+      "#54779F",
+      "#324E78"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 0
+  },
+  {
+    "name": "Ink wash",
+    "type": "MIST",
+    "colors": [
+      "#F8F6F0",
+      "#EAE5D9",
+      "#C8C2B3",
+      "#9A9483",
+      "#6B6558",
+      "#3B362E"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 0
+  },
+  {
+    "name": "Dusk ember",
+    "type": "MIST",
+    "colors": [
+      "#FBE7CD",
+      "#F5C8A1",
+      "#DD9B88",
+      "#B06E80",
+      "#7A4B6F",
+      "#452F56"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 0
+  },
+  {
+    "name": "Pine wind",
+    "type": "MIST",
+    "colors": [
+      "#F2F7ED",
+      "#DEEBD5",
+      "#B6CFB1",
+      "#88AB8D",
+      "#5C8267",
+      "#375343"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 0
+  },
+  {
+    "name": "Moonlit",
+    "type": "MIST",
+    "colors": [
+      "#101828",
+      "#3A4A6B",
+      "#33415F",
+      "#26324C",
+      "#1B2439",
+      "#111826"
+    ],
+    "params": {},
+    "grain": 14,
+    "soften": 0
+  },
+  {
+    "name": "New York",
+    "type": "SKYLINE",
+    "colors": [
+      "#A8BACF",
+      "#7A92B0",
+      "#57708F",
+      "#3D5273",
+      "#2A3B59",
+      "#1E2C45"
+    ],
+    "params": {},
+    "grain": 18,
+    "soften": 3
+  },
+  {
+    "name": "Paris",
+    "type": "SKYLINE",
+    "colors": [
+      "#F4E3C1",
+      "#EFC77E",
+      "#D9915F",
+      "#9E5F72",
+      "#5B3A63",
+      "#3E2A55"
+    ],
+    "params": {},
+    "grain": 18,
+    "soften": 3
+  },
+  {
+    "name": "London",
+    "type": "SKYLINE",
+    "colors": [
+      "#F2F4F5",
+      "#E4E8EB",
+      "#D2D8DD",
+      "#BCC5CC",
+      "#A3AFB8",
+      "#8895A0"
+    ],
+    "params": {},
+    "grain": 18,
+    "soften": 3
+  },
+  {
+    "name": "Sydney",
+    "type": "SKYLINE",
+    "colors": [
+      "#F7FBF6",
+      "#DDF3EE",
+      "#A9E4DE",
+      "#5FC8C6",
+      "#22A2A8",
+      "#0E6F7E"
+    ],
+    "params": {},
+    "grain": 18,
+    "soften": 3
+  },
+  {
+    "name": "Sea glass",
+    "type": "IOS",
+    "colors": [
+      "#274A78",
+      "#00A3AF",
+      "#A2D7DD",
+      "#EBF6F7"
+    ],
+    "params": {},
+    "grain": 14,
+    "soften": 12
+  },
+  {
+    "name": "Violet hour",
+    "type": "IOS",
+    "colors": [
+      "#181B3A",
+      "#5654A2",
+      "#B28FCE",
+      "#EEBBCB"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Dawn silk",
+    "type": "IOS",
+    "colors": [
+      "#5654A2",
+      "#B28FCE",
+      "#F09199",
+      "#F8B500"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 12
+  },
+  {
+    "name": "Morning haze",
+    "type": "IOS",
+    "colors": [
+      "#A0D8EF",
+      "#EAF4FC",
+      "#F4B3C2",
+      "#FDEFF2"
+    ],
+    "params": {},
+    "grain": 12,
+    "soften": 10
+  },
+  {
+    "name": "Aurora film",
+    "type": "IOS",
+    "colors": [
+      "#0C1424",
+      "#3FB8D8",
+      "#FF9A3C",
+      "#E2517B",
+      "#EFEDE6"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Daybreak",
+    "type": "IOS",
+    "colors": [
+      "#F3EDE2",
+      "#FFB65C",
+      "#7AC7DE",
+      "#E88AA0"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Ember night",
+    "type": "IOS",
+    "colors": [
+      "#140D12",
+      "#E4572E",
+      "#B7282E",
+      "#F4A259"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Polar drift",
+    "type": "IOS",
+    "colors": [
+      "#0D1B2A",
+      "#4EA8DE",
+      "#A9D6E5",
+      "#EAE6DA"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Neon haze",
+    "type": "IOS",
+    "colors": [
+      "#160F28",
+      "#FF5D8F",
+      "#4CC9F0",
+      "#B084F5"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Peach film",
+    "type": "IOS",
+    "colors": [
+      "#F6E9DB",
+      "#F49E5C",
+      "#E2708A",
+      "#8FBEDC"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Deep water",
+    "type": "IOS",
+    "colors": [
+      "#06121C",
+      "#1B6E8C",
+      "#41B8C4",
+      "#CFE8E6"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Violet scan",
+    "type": "IOS",
+    "colors": [
+      "#171126",
+      "#7A5AC8",
+      "#E2517B",
+      "#FFB65C"
+    ],
+    "params": {},
+    "grain": 16,
+    "soften": 12
+  },
+  {
+    "name": "Pixel rose",
+    "type": "PIXEL",
+    "colors": [
+      "#DE1D74",
+      "#E85B9E",
+      "#F292C4",
+      "#F8C4DD",
+      "#F7EEF3"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Pixel coral",
+    "type": "PIXEL",
+    "colors": [
+      "#F04E36",
+      "#F87A5C",
+      "#FBA184",
+      "#FFCBB4",
+      "#F9EFEA"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Pixel amber",
+    "type": "PIXEL",
+    "colors": [
+      "#F59410",
+      "#FFB23C",
+      "#FFCB70",
+      "#FFE2A6",
+      "#F8F1E0"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Pixel lagoon",
+    "type": "PIXEL",
+    "colors": [
+      "#06A2AF",
+      "#2FC3CC",
+      "#77DEE4",
+      "#BAEEF0",
+      "#ECF6F5"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Pixel azure",
+    "type": "PIXEL",
+    "colors": [
+      "#2C63E6",
+      "#5686F2",
+      "#92B2F8",
+      "#C5D7FC",
+      "#EEF3FC"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Pixel matcha",
+    "type": "PIXEL",
+    "colors": [
+      "#12A06C",
+      "#3DC68C",
+      "#80E1B5",
+      "#BFF0D7",
+      "#EDF6EF"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 6,
+    "soften": 0
+  },
+  {
+    "name": "Crimson pulse",
+    "type": "PIXEL",
+    "colors": [
+      "#790045",
+      "#9C0145",
+      "#F40153",
+      "#FF2E8A",
+      "#FFA7F5",
+      "#EBE9EC"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 4,
+    "soften": 0
+  },
+  {
+    "name": "Ocean aurora",
+    "type": "PIXEL",
+    "colors": [
+      "#101A3D",
+      "#29336E",
+      "#3167D8",
+      "#19C7C2",
+      "#8CE7DA",
+      "#EEF8F4"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 4,
+    "soften": 0
+  },
+  {
+    "name": "Violet pulse",
+    "type": "PIXEL",
+    "colors": [
+      "#2B0B54",
+      "#4A11A8",
+      "#8420F0",
+      "#B14CF9",
+      "#E2C0FD",
+      "#F0ECF5"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 4,
+    "soften": 0
+  },
+  {
+    "name": "Ember bloom",
+    "type": "PIXEL",
+    "colors": [
+      "#48120A",
+      "#7E1F04",
+      "#E04B02",
+      "#FF8B3D",
+      "#FFCF9E",
+      "#F6EFE7"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 4,
+    "soften": 0
+  },
+  {
+    "name": "Matcha aurora",
+    "type": "PIXEL",
+    "colors": [
+      "#0B3A2A",
+      "#0E5F41",
+      "#17A468",
+      "#52D695",
+      "#BEEFD4",
+      "#EEF4EE"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 4,
+    "soften": 0
+  },
+  {
+    "name": "Moon frost",
+    "type": "PIXEL",
+    "colors": [
+      "#0D0F1F",
+      "#1F2440",
+      "#3F4874",
+      "#7A85B5",
+      "#C9D0E8",
+      "#F0F2F7"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 5,
+    "soften": 0
+  },
+  {
+    "name": "Glass peach",
+    "type": "PIXEL",
+    "colors": [
+      "#F4503A",
+      "#F97E5F",
+      "#FFAE92",
+      "#FFD6C2",
+      "#F6F0EB"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glass strawberry",
+    "type": "PIXEL",
+    "colors": [
+      "#EE2D7F",
+      "#F663A2",
+      "#FB9DC6",
+      "#FDD2E3",
+      "#F8F1F4"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glass mint",
+    "type": "PIXEL",
+    "colors": [
+      "#00B3A4",
+      "#2FD1BC",
+      "#85E8D6",
+      "#C6F4EA",
+      "#EFF5F2"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glass ramune",
+    "type": "PIXEL",
+    "colors": [
+      "#2260F5",
+      "#5487F9",
+      "#97B8FC",
+      "#CDDDFE",
+      "#F0F3FA"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glass honey",
+    "type": "PIXEL",
+    "colors": [
+      "#F59000",
+      "#FFAF2E",
+      "#FFCE73",
+      "#FFE7B5",
+      "#F8F2E9"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glassy lime",
+    "type": "GLASSY",
+    "colors": [
+      "#DDE822",
+      "#84CC26",
+      "#2B8F46",
+      "#BFE5C0",
+      "#F1F4EF"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glassy sky",
+    "type": "GLASSY",
+    "colors": [
+      "#1D6FF2",
+      "#4E96F7",
+      "#8FC0FB",
+      "#CBE1FD",
+      "#EFF4FA"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glassy strawberry",
+    "type": "GLASSY",
+    "colors": [
+      "#EF2E82",
+      "#F566A5",
+      "#FA9EC8",
+      "#FDD2E4",
+      "#F8F1F4"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glassy peach",
+    "type": "GLASSY",
+    "colors": [
+      "#F5522E",
+      "#F98056",
+      "#FCAB88",
+      "#FDD6C1",
+      "#F8F1EC"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glassy mint",
+    "type": "GLASSY",
+    "colors": [
+      "#0AB5A2",
+      "#3BD2BB",
+      "#88E7D5",
+      "#C7F3E9",
+      "#EFF5F2"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glassy hearts",
+    "type": "GLASSY",
+    "colors": [
+      "#F63078",
+      "#F9679F",
+      "#FBA1C6",
+      "#FDD3E4",
+      "#F8F1F4"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Glassy stars",
+    "type": "GLASSY",
+    "colors": [
+      "#FFB300",
+      "#FFC94D",
+      "#FFDF8F",
+      "#FFEFC7",
+      "#F8F3E7"
+    ],
+    "params": {},
+    "speed": 30,
+    "grain": 3,
+    "soften": 0
+  },
+  {
+    "name": "Opal",
+    "type": "FLOW",
+    "colors": [
+      "#F6F9FF",
+      "#9BE0E8",
+      "#C4B5F7",
+      "#F8B8D9"
+    ],
+    "params": {
+      "scale": 52,
+      "distortion": 46,
+      "swirl": 8
+    },
+    "speed": 24,
+    "grain": 5
+  },
+  {
+    "name": "Lagoon",
+    "type": "FLOW",
+    "colors": [
+      "#EAFBF7",
+      "#5CE3E6",
+      "#0F9CC2",
+      "#274A78"
+    ],
+    "params": {
+      "scale": 52,
+      "distortion": 44,
+      "swirl": 6
+    },
+    "speed": 26,
+    "grain": 5
+  },
+  {
+    "name": "Emerald",
+    "type": "FLOW",
+    "colors": [
+      "#F0FBEF",
+      "#8FE3B0",
+      "#22C79A",
+      "#0B5F51"
+    ],
+    "params": {
+      "scale": 50,
+      "distortion": 44,
+      "swirl": 6
+    },
+    "speed": 26,
+    "grain": 5
+  },
+  {
+    "name": "Solar flare",
+    "type": "FLOW",
+    "colors": [
+      "#FFF6DE",
+      "#FFC24B",
+      "#F4664D",
+      "#8A2E5E"
+    ],
+    "params": {
+      "scale": 50,
+      "distortion": 52,
+      "swirl": 10
+    },
+    "speed": 28,
+    "grain": 6
+  },
+  {
+    "name": "Orchid",
+    "type": "FLOW",
+    "colors": [
+      "#FBEFFB",
+      "#E794C9",
+      "#9678CE",
+      "#4A3894"
+    ],
+    "params": {
+      "scale": 48,
+      "distortion": 46,
+      "swirl": 9
+    },
+    "speed": 26,
+    "grain": 5
+  },
+  {
+    "name": "Peach glow",
+    "type": "FLOW",
+    "colors": [
+      "#FFF3EC",
+      "#FFC9A3",
+      "#F08A8C",
+      "#B65E8C"
+    ],
+    "params": {
+      "scale": 50,
+      "distortion": 48,
+      "swirl": 8
+    },
+    "speed": 28,
+    "grain": 5
+  },
+  {
+    "name": "Electric tide",
+    "type": "FLOW",
+    "colors": [
+      "#DFFBFF",
+      "#6FD8F2",
+      "#4C5BE0",
+      "#2A2450"
+    ],
+    "params": {
+      "scale": 50,
+      "distortion": 60,
+      "swirl": 14
+    },
+    "speed": 32,
+    "grain": 6
+  },
+  {
+    "name": "Sunset",
+    "type": "FLOW",
+    "colors": [
+      "#FFE9C4",
+      "#FFAE3F",
+      "#F0574D",
+      "#5D2A66"
+    ],
+    "params": {
+      "scale": 46,
+      "distortion": 70,
+      "swirl": 16
+    },
+    "speed": 34,
+    "grain": 6
+  },
+  {
+    "name": "Mint ice",
+    "type": "FLOW",
+    "colors": [
+      "#F2FDF9",
+      "#A8F0DC",
+      "#52CBB0",
+      "#147A5F"
+    ],
+    "params": {
+      "scale": 50,
+      "distortion": 55,
+      "swirl": 10
+    },
+    "speed": 30,
+    "grain": 6
+  },
+  {
+    "name": "Midnight bloom",
+    "type": "FLOW",
+    "colors": [
+      "#12142E",
+      "#4C3894",
+      "#B387E8",
+      "#F6C6E2"
+    ],
+    "params": {
+      "scale": 46,
+      "distortion": 78,
+      "swirl": 22
+    },
+    "speed": 36,
+    "grain": 8
+  },
+  {
+    "name": "Rose gold",
+    "type": "FLOW",
+    "colors": [
+      "#FFF4E8",
+      "#FBC9AC",
+      "#E79BA7",
+      "#8E5A74"
+    ],
+    "params": {
+      "scale": 52,
+      "distortion": 50,
+      "swirl": 8
+    },
+    "speed": 26,
+    "grain": 6
+  },
+  {
+    "name": "Vaporwave",
+    "type": "RETRO",
+    "colors": [
+      "#FDEFF2",
+      "#E95464",
+      "#5654A2",
+      "#00A3AF"
+    ],
+    "params": {},
+    "speed": 24,
+    "grain": 30
+  },
+  {
+    "name": "Seventies",
+    "type": "RETRO",
+    "colors": [
+      "#FFF1CF",
+      "#C39143",
+      "#9E3D3F",
+      "#839B5C"
+    ],
+    "params": {},
+    "speed": 18,
+    "grain": 32
+  },
+  {
+    "name": "Miami",
+    "type": "RETRO",
+    "colors": [
+      "#EBF6F7",
+      "#00A3AF",
+      "#F09199",
+      "#F8B500"
+    ],
+    "params": {},
+    "speed": 24,
+    "grain": 26
+  },
+  {
+    "name": "Cosmic",
+    "type": "RETRO",
+    "colors": [
+      "#EBF6F7",
+      "#E95464",
+      "#5654A2",
+      "#181B3A"
+    ],
+    "params": {},
+    "speed": 20,
+    "grain": 30
+  },
+  {
+    "name": "Peach",
+    "type": "RETRO",
+    "colors": [
+      "#FFF1CF",
+      "#F5B1AA",
+      "#F09199",
+      "#B28FCE"
+    ],
+    "params": {},
+    "speed": 20,
+    "grain": 26
+  },
+  {
+    "name": "Daybreak",
+    "type": "CNOISE",
+    "colors": [
+      "#F3EDE2",
+      "#FFB65C",
+      "#7AC7DE",
+      "#E88AA0"
+    ],
+    "params": {
+      "angle": 24,
+      "stretch": 58,
+      "spread": 60
+    },
+    "grain": 22
+  },
+  {
+    "name": "Ember night",
+    "type": "CNOISE",
+    "colors": [
+      "#140D12",
+      "#E4572E",
+      "#B7282E",
+      "#F4A259"
+    ],
+    "params": {
+      "angle": 40,
+      "stretch": 68,
+      "spread": 48
+    },
+    "grain": 28
+  },
+  {
+    "name": "Polar drift",
+    "type": "CNOISE",
+    "colors": [
+      "#0D1B2A",
+      "#4EA8DE",
+      "#A9D6E5",
+      "#EAE6DA"
+    ],
+    "params": {
+      "angle": 20,
+      "stretch": 55,
+      "spread": 62
+    },
+    "grain": 24
+  },
+  {
+    "name": "Neon haze",
+    "type": "CNOISE",
+    "colors": [
+      "#160F28",
+      "#FF5D8F",
+      "#4CC9F0",
+      "#B084F5"
+    ],
+    "params": {
+      "angle": 30,
+      "stretch": 66,
+      "spread": 50
+    },
+    "grain": 30
+  },
+  {
+    "name": "Peach film",
+    "type": "CNOISE",
+    "colors": [
+      "#F6E9DB",
+      "#F49E5C",
+      "#E2708A",
+      "#8FBEDC"
+    ],
+    "params": {
+      "angle": 150,
+      "stretch": 60,
+      "spread": 58
+    },
+    "grain": 22
+  },
+  {
+    "name": "Deep water",
+    "type": "CNOISE",
+    "colors": [
+      "#06121C",
+      "#1B6E8C",
+      "#41B8C4",
+      "#CFE8E6"
+    ],
+    "params": {
+      "angle": 26,
+      "stretch": 64,
+      "spread": 52
+    },
+    "grain": 26
+  },
+  {
+    "name": "Violet scan",
+    "type": "CNOISE",
+    "colors": [
+      "#171126",
+      "#7A5AC8",
+      "#E2517B",
+      "#FFB65C"
+    ],
+    "params": {
+      "angle": 34,
+      "stretch": 62,
+      "spread": 55
+    },
+    "grain": 27
+  },
+  {
+    "name": "Bands",
+    "type": "STRIPE",
+    "colors": [
+      "#E95464",
+      "#F8B500",
+      "#68BE8D",
+      "#1E50A2"
+    ],
+    "params": {
+      "angle": 0,
+      "softness": 14,
+      "wave": 12
+    }
+  },
+  {
+    "name": "Ocean bands",
+    "type": "STRIPE",
+    "colors": [
+      "#EBF6F7",
+      "#A0D8EF",
+      "#007BBB",
+      "#1E50A2"
+    ],
+    "params": {
+      "angle": 0,
+      "softness": 28,
+      "wave": 10
+    },
+    "speed": 24,
+    "grain": 4
+  },
+  {
+    "name": "Tricolour",
+    "type": "STRIPE",
+    "colors": [
+      "#1E50A2",
+      "#FFFFFC",
+      "#E95464"
+    ],
+    "params": {
+      "angle": 90,
+      "softness": 0,
+      "wave": 0
+    },
+    "speed": 0,
+    "grain": 0
+  },
+  {
+    "name": "Rainbow",
+    "type": "STRIPE",
+    "colors": [
+      "#E40303",
+      "#FF8C00",
+      "#FFED00",
+      "#008026",
+      "#004DFF",
+      "#750787"
+    ],
+    "params": {
+      "angle": 0,
+      "softness": 3,
+      "wave": 8
+    },
+    "speed": 24,
+    "grain": 0
+  },
+  {
+    "name": "Cotton candy",
+    "type": "STRIPE",
+    "colors": [
+      "#5BCEFA",
+      "#F5A9B8",
+      "#FFFFFC",
+      "#F5A9B8",
+      "#5BCEFA"
+    ],
+    "params": {
+      "angle": 0,
+      "softness": 36,
+      "wave": 8
+    },
+    "speed": 22,
+    "grain": 4,
+    "soften": 4
+  },
+  {
+    "name": "Blush bands",
+    "type": "STRIPE",
+    "colors": [
+      "#FEF4F4",
+      "#F4B3C2",
+      "#F09199",
+      "#895B8A"
+    ],
+    "params": {
+      "angle": 0,
+      "softness": 30,
+      "wave": 8
+    },
+    "speed": 22,
+    "grain": 6
+  },
+  {
+    "name": "Diagonal",
+    "type": "STRIPE",
+    "colors": [
+      "#68BE8D",
+      "#F8E58C",
+      "#EE7800"
+    ],
+    "params": {
+      "angle": 45,
+      "softness": 16,
+      "wave": 14
+    },
+    "speed": 28,
+    "grain": 4
+  },
+  {
+    "name": "Mono bands",
+    "type": "STRIPE",
+    "colors": [
+      "#EBF6F7",
+      "#AFAFB0",
+      "#524E4D",
+      "#1C1C1C"
+    ],
+    "params": {
+      "angle": 0,
+      "softness": 22,
+      "wave": 6
+    },
+    "speed": 20,
+    "grain": 10
+  },
+  {
+    "name": "Neon rise",
+    "type": "BARS",
+    "colors": [
+      "#05060F",
+      "#16249E",
+      "#4C5BE0",
+      "#B387E8",
+      "#F86AC8",
+      "#FF4E63"
+    ],
+    "params": {
+      "count": 12,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Reverb",
+    "type": "BARS",
+    "colors": [
+      "#140B22",
+      "#5B2A86",
+      "#E95464",
+      "#F8B500"
+    ],
+    "params": {
+      "count": 9,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Pulse",
+    "type": "BARS",
+    "colors": [
+      "#0A0A0A",
+      "#9E3D3F",
+      "#EB6101",
+      "#F8E58C"
+    ],
+    "params": {
+      "count": 6,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Level",
+    "type": "BARS",
+    "colors": [
+      "#101828",
+      "#1E50A2",
+      "#00A3AF",
+      "#8FE3C6"
+    ],
+    "params": {
+      "count": 11,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Mono wave",
+    "type": "BARS",
+    "colors": [
+      "#0C0C0C",
+      "#524E4D",
+      "#AFAFB0",
+      "#EBF6F7"
+    ],
+    "params": {
+      "count": 8,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Strata",
+    "type": "COLS",
+    "colors": [
+      "#EAF2F7",
+      "#B7CCDF",
+      "#7E9EB8",
+      "#47668A",
+      "#2E4366"
+    ],
+    "params": {
+      "count": 18,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Pink sunset",
+    "type": "COLS",
+    "colors": [
+      "#2A0F3C",
+      "#8A3D8F",
+      "#E96AA8",
+      "#FFB48A",
+      "#FFE6C7"
+    ],
+    "params": {
+      "count": 26,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Deep sea",
+    "type": "COLS",
+    "colors": [
+      "#DFF3F2",
+      "#68BE8D",
+      "#007BBB",
+      "#181B3A"
+    ],
+    "params": {
+      "count": 20,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Stratus",
+    "type": "COLS",
+    "colors": [
+      "#F2F5F8",
+      "#C3CEDA",
+      "#8797AB",
+      "#4A5A6E"
+    ],
+    "params": {
+      "count": 22,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Afterglow",
+    "type": "COLS",
+    "colors": [
+      "#FFF1CF",
+      "#F8B500",
+      "#EB6101",
+      "#824880"
+    ],
+    "params": {
+      "count": 14,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Aurora",
+    "type": "PRISM",
+    "colors": [
+      "#155F72",
+      "#18B89A",
+      "#7FF0C8",
+      "#C8B8F8",
+      "#F0FBF4"
+    ],
+    "params": {
+      "count": 10,
+      "gap": 0,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Festival",
+    "type": "PRISM",
+    "colors": [
+      "#7A1E44",
+      "#E8455C",
+      "#FF8A5C",
+      "#FFC96B",
+      "#FFF0D0"
+    ],
+    "params": {
+      "count": 9,
+      "gap": 0,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Ice pillars",
+    "type": "PRISM",
+    "colors": [
+      "#123A8C",
+      "#3E7BD6",
+      "#9BC4F2",
+      "#EAF4FF"
+    ],
+    "params": {
+      "count": 12,
+      "gap": 0,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Peacock",
+    "type": "PRISM",
+    "colors": [
+      "#0B4F63",
+      "#1490B8",
+      "#2ED9C3",
+      "#A8ECDC",
+      "#F6EFC8"
+    ],
+    "params": {
+      "count": 11,
+      "gap": 0,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Neon dusk",
+    "type": "PRISM",
+    "colors": [
+      "#4A1E7A",
+      "#B43AD8",
+      "#F45FA8",
+      "#FF9E7A",
+      "#FFE8CE"
+    ],
+    "params": {
+      "count": 10,
+      "gap": 0,
+      "envelope": "ramp"
+    }
+  },
+  {
+    "name": "Deep swell",
+    "type": "RING",
+    "colors": [
+      "#FF9FCB",
+      "#DCEFFF",
+      "#2170D5",
+      "#105CB4",
+      "#3A94EE"
+    ],
+    "params": {
+      "count": 9,
+      "dirX": 0.12,
+      "dirY": 0.12,
+      "melt": 0,
+      "glow": 100,
+      "sweep": 100
+    }
+  },
+  {
+    "name": "Sun rings",
+    "type": "RING",
+    "colors": [
+      "#FFF1CF",
+      "#F8B500",
+      "#EB6101",
+      "#9E3D3F"
+    ],
+    "params": {
+      "count": 15,
+      "dirX": 0.5,
+      "dirY": 1,
+      "melt": 28,
+      "glow": 90,
+      "sweep": 100
+    },
+    "grain": 8
+  },
+  {
+    "name": "Plum rings",
+    "type": "RING",
+    "colors": [
+      "#FEF4F4",
+      "#EEBBCB",
+      "#895B8A",
+      "#3C3044"
+    ],
+    "params": {
+      "count": 10,
+      "dirX": 0.5,
+      "dirY": 0.5,
+      "melt": 55,
+      "glow": 75,
+      "sweep": 45
+    },
+    "grain": 10
+  },
+  {
+    "name": "Lotus pond",
+    "type": "RING",
+    "colors": [
+      "#F8F4E6",
+      "#D6E9CA",
+      "#7EBEA5",
+      "#00A3AF",
+      "#274A78"
+    ],
+    "params": {
+      "count": 18,
+      "dirX": 1,
+      "dirY": 0,
+      "melt": 18,
+      "glow": 100,
+      "sweep": 100
+    },
+    "grain": 8
+  },
+  {
+    "name": "Ink rings",
+    "type": "RING",
+    "colors": [
+      "#DCDDDD",
+      "#888084",
+      "#36363B"
+    ],
+    "params": {
+      "count": 7,
+      "dirX": 0,
+      "dirY": 0.5,
+      "melt": 0,
+      "glow": 42,
+      "sweep": 0
+    },
+    "grain": 14
+  }
+]

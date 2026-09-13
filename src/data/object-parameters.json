@@ -1,0 +1,588 @@
+[
+  {
+    "name": "Lapis jar",
+    "type": "blocks",
+    "params": {
+      "steps": 0,
+      "dir": "out",
+      "fx": 50,
+      "fy": 50,
+      "soft": 50,
+      "w": 50,
+      "h": 50
+    }
+  },
+  {
+    "name": "Dusk temple",
+    "type": "blocks",
+    "params": {
+      "steps": 0,
+      "dir": "out",
+      "fx": 50,
+      "fy": 50,
+      "soft": 50,
+      "w": 50,
+      "h": 50
+    }
+  },
+  {
+    "name": "Jewel tones",
+    "type": "blocks",
+    "params": {
+      "steps": 0,
+      "dir": "out",
+      "fx": 50,
+      "fy": 50,
+      "soft": 50,
+      "w": 50,
+      "h": 50
+    }
+  },
+  {
+    "name": "Rose gold",
+    "type": "balls",
+    "params": {
+      "scale": 10
+    },
+    "soften": 6,
+    "grain": 18
+  },
+  {
+    "name": "Amethyst",
+    "type": "balls",
+    "params": {
+      "scale": 9
+    },
+    "soften": 6,
+    "grain": 16
+  },
+  {
+    "name": "Jade beads",
+    "type": "balls",
+    "params": {
+      "scale": 11
+    },
+    "soften": 6,
+    "grain": 16
+  },
+  {
+    "name": "Amber comb",
+    "type": "beehive",
+    "params": {}
+  },
+  {
+    "name": "Lapis chamber",
+    "type": "beehive",
+    "params": {
+      "style": "mosaic"
+    }
+  },
+  {
+    "name": "Honeycomb",
+    "type": "beehive",
+    "params": {}
+  },
+  {
+    "name": "Fairway glass",
+    "type": "balls",
+    "params": {
+      "style": "convex"
+    },
+    "soften": 4,
+    "grain": 15
+  },
+  {
+    "name": "Aqua glow",
+    "type": "glint",
+    "params": {
+      "scale": 66
+    },
+    "soften": 3,
+    "grain": 6
+  },
+  {
+    "name": "Morning mist",
+    "type": "mist",
+    "params": {
+      "scale": 33
+    },
+    "soften": 0,
+    "grain": 12
+  },
+  {
+    "name": "San Francisco",
+    "type": "skyline",
+    "params": {
+      "scale": 30,
+      "city": "San Francisco"
+    },
+    "soften": 3,
+    "grain": 18
+  },
+  {
+    "name": "Beeswax",
+    "type": "beehive",
+    "params": {},
+    "soften": 8,
+    "grain": 12
+  },
+  {
+    "name": "Coral comb",
+    "type": "beehive",
+    "params": {},
+    "soften": 8,
+    "grain": 12
+  },
+  {
+    "name": "Jade comb",
+    "type": "beehive",
+    "params": {},
+    "soften": 8,
+    "grain": 12
+  },
+  {
+    "name": "Aqua drive",
+    "type": "balls",
+    "params": {
+      "style": "concave"
+    },
+    "soften": 4,
+    "grain": 9
+  },
+  {
+    "name": "Frosted blue",
+    "type": "balls",
+    "params": {
+      "style": "concave"
+    },
+    "soften": 5,
+    "grain": 7
+  },
+  {
+    "name": "Champagne cup",
+    "type": "balls",
+    "params": {
+      "style": "concave"
+    },
+    "soften": 4,
+    "grain": 9
+  },
+  {
+    "name": "Night tee",
+    "type": "balls",
+    "params": {
+      "style": "concave"
+    },
+    "soften": 5,
+    "grain": 11
+  },
+  {
+    "name": "Dusk temple",
+    "type": "blocks",
+    "params": {
+      "steps": 0,
+      "dir": "out",
+      "fx": 50,
+      "fy": 50,
+      "soft": 50,
+      "w": 50,
+      "h": 50
+    },
+    "soften": 6,
+    "grain": 10
+  },
+  {
+    "name": "Club flyer",
+    "type": "blocks",
+    "params": {
+      "steps": 11,
+      "dir": "out",
+      "fx": 46,
+      "fy": 36,
+      "soft": 6,
+      "w": 52,
+      "h": 34
+    },
+    "soften": 0,
+    "grain": 14
+  },
+  {
+    "name": "Festival poster",
+    "type": "blocks",
+    "params": {
+      "steps": 9,
+      "dir": "out",
+      "fx": 50,
+      "fy": 60,
+      "soft": 55,
+      "w": 55,
+      "h": 42
+    },
+    "soften": 2,
+    "grain": 12
+  },
+  {
+    "name": "Open house",
+    "type": "blocks",
+    "params": {
+      "steps": 9,
+      "dir": "in",
+      "fx": 50,
+      "fy": 46,
+      "soft": 4,
+      "w": 30,
+      "h": 56
+    },
+    "soften": 0,
+    "grain": 6
+  },
+  {
+    "name": "Magazine cover",
+    "type": "blocks",
+    "params": {
+      "steps": 6,
+      "dir": "in",
+      "fx": 50,
+      "fy": 56,
+      "soft": 0,
+      "w": 58,
+      "h": 44
+    },
+    "soften": 0,
+    "grain": 6
+  },
+  {
+    "name": "Product drop",
+    "type": "blocks",
+    "params": {
+      "steps": 8,
+      "dir": "in",
+      "fx": 64,
+      "fy": 56,
+      "soft": 5,
+      "w": 44,
+      "h": 46
+    },
+    "soften": 0,
+    "grain": 6
+  },
+  {
+    "name": "Film banner",
+    "type": "blocks",
+    "params": {
+      "steps": 9,
+      "dir": "in",
+      "fx": 50,
+      "fy": 54,
+      "soft": 3,
+      "w": 96,
+      "h": 10
+    },
+    "soften": 0,
+    "grain": 6
+  },
+  {
+    "name": "Desert doc",
+    "type": "blocks",
+    "params": {
+      "steps": 11,
+      "dir": "in",
+      "fx": 50,
+      "fy": 64,
+      "soft": 3,
+      "w": 90,
+      "h": 22
+    },
+    "soften": 0,
+    "grain": 10
+  },
+  {
+    "name": "Conference hero",
+    "type": "blocks",
+    "params": {
+      "steps": 10,
+      "dir": "in",
+      "fx": 84,
+      "fy": 22,
+      "soft": 4,
+      "w": 48,
+      "h": 44
+    },
+    "soften": 0,
+    "grain": 6
+  },
+  {
+    "name": "Keynote deck",
+    "type": "blocks",
+    "params": {
+      "steps": 9,
+      "dir": "in",
+      "fx": 46,
+      "fy": 42,
+      "soft": 8,
+      "w": 50,
+      "h": 42
+    },
+    "soften": 0,
+    "grain": 6
+  },
+  {
+    "name": "Album cover",
+    "type": "blocks",
+    "params": {
+      "steps": 7,
+      "dir": "in",
+      "fx": 50,
+      "fy": 46,
+      "soft": 2,
+      "w": 44,
+      "h": 44
+    },
+    "soften": 0,
+    "grain": 16
+  },
+  {
+    "name": "Exhibition poster",
+    "type": "blocks",
+    "params": {
+      "steps": 0,
+      "dir": "in",
+      "fx": 54,
+      "fy": 58,
+      "soft": 0,
+      "w": 52,
+      "h": 40
+    },
+    "soften": 0,
+    "grain": 4,
+    "divisions": [
+      0.16,
+      0.34,
+      0.58,
+      0.84
+    ]
+  },
+  {
+    "name": "Emerald reef",
+    "type": "glint",
+    "params": {
+      "scale": 60
+    },
+    "soften": 3,
+    "grain": 6
+  },
+  {
+    "name": "Sky lagoon",
+    "type": "glint",
+    "params": {
+      "scale": 62
+    },
+    "soften": 3,
+    "grain": 8
+  },
+  {
+    "name": "Aurora tide",
+    "type": "glint",
+    "params": {
+      "scale": 60
+    },
+    "soften": 3,
+    "grain": 8
+  },
+  {
+    "name": "Iridescent reef",
+    "type": "glint",
+    "params": {
+      "scale": 64
+    },
+    "soften": 3,
+    "grain": 9
+  },
+  {
+    "name": "Coral sunrise",
+    "type": "glint",
+    "params": {
+      "scale": 62
+    },
+    "soften": 3,
+    "grain": 7
+  },
+  {
+    "name": "Golden hour",
+    "type": "glint",
+    "params": {
+      "scale": 60
+    },
+    "soften": 3,
+    "grain": 8
+  },
+  {
+    "name": "Orchid glow",
+    "type": "glint",
+    "params": {
+      "scale": 62
+    },
+    "soften": 3,
+    "grain": 6
+  },
+  {
+    "name": "Mint lagoon",
+    "type": "glint",
+    "params": {
+      "scale": 56
+    },
+    "soften": 4,
+    "grain": 5
+  },
+  {
+    "name": "Rose gold",
+    "type": "glint",
+    "params": {
+      "scale": 60
+    },
+    "soften": 4,
+    "grain": 6
+  },
+  {
+    "name": "Cotton candy",
+    "type": "glint",
+    "params": {
+      "scale": 58
+    },
+    "soften": 4,
+    "grain": 5
+  },
+  {
+    "name": "Lavender dream",
+    "type": "glint",
+    "params": {
+      "scale": 60
+    },
+    "soften": 4,
+    "grain": 5
+  },
+  {
+    "name": "Sea sparkle",
+    "type": "glint",
+    "params": {
+      "scale": 58
+    },
+    "soften": 3,
+    "grain": 5
+  },
+  {
+    "name": "Blue hour",
+    "type": "mist",
+    "params": {
+      "haze": 50,
+      "height": 60,
+      "sharp": 45,
+      "sun": 64,
+      "drift": 55,
+      "seed": 21,
+      "scale": 33
+    },
+    "soften": 0,
+    "grain": 12
+  },
+  {
+    "name": "Ink wash",
+    "type": "mist",
+    "params": {
+      "haze": 62,
+      "height": 45,
+      "sharp": 30,
+      "sun": 70,
+      "drift": 45,
+      "seed": 3,
+      "scale": 17
+    },
+    "soften": 0,
+    "grain": 16
+  },
+  {
+    "name": "Dusk ember",
+    "type": "mist",
+    "params": {
+      "haze": 50,
+      "height": 62,
+      "sharp": 62,
+      "sun": 28,
+      "drift": 55,
+      "seed": 12,
+      "scale": 50
+    },
+    "soften": 0,
+    "grain": 12
+  },
+  {
+    "name": "Pine wind",
+    "type": "mist",
+    "params": {
+      "haze": 45,
+      "height": 52,
+      "sharp": 50,
+      "sun": 64,
+      "drift": 55,
+      "seed": 33,
+      "scale": 33
+    },
+    "soften": 0,
+    "grain": 12
+  },
+  {
+    "name": "Moonlit",
+    "type": "mist",
+    "params": {
+      "haze": 50,
+      "height": 58,
+      "sharp": 68,
+      "sun": 76,
+      "drift": 40,
+      "seed": 51,
+      "scale": 33
+    },
+    "soften": 0,
+    "grain": 14
+  },
+  {
+    "name": "New York",
+    "type": "skyline",
+    "params": {
+      "scale": 46,
+      "city": "New York"
+    },
+    "soften": 3,
+    "grain": 18
+  },
+  {
+    "name": "Paris",
+    "type": "skyline",
+    "params": {
+      "scale": 26,
+      "city": "Paris"
+    },
+    "soften": 3,
+    "grain": 18
+  },
+  {
+    "name": "London",
+    "type": "skyline",
+    "params": {
+      "scale": 16,
+      "city": "London"
+    },
+    "soften": 3,
+    "grain": 18
+  },
+  {
+    "name": "Sydney",
+    "type": "skyline",
+    "params": {
+      "scale": 18,
+      "city": "Sydney"
+    },
+    "soften": 3,
+    "grain": 18
+  }
+]

@@ -1,0 +1,41 @@
+---
+import '../styles/global.css';
+import '../styles/studio.css';
+import '../styles/components.css';
+import '../styles/mica.css';
+import '../styles/presets.css';
+import '../styles/select.css';
+interface Props { title: string; description?: string; studio?: boolean }
+const { title, description = 'Thoughtful tools for colour, form, and everything in between. A design playground by galaxyrio.', studio = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f6f6f4" />
+    <script is:inline>
+      (() => {
+        let theme;
+        try { theme = localStorage.getItem('galaxyrio-design.theme.v1'); } catch {}
+        if (theme !== 'light' && theme !== 'dark') theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.dataset.theme = theme;
+        document.querySelector('meta[name="theme-color"]').content = theme === 'dark' ? '#121315' : '#f6f6f4';
+      })();
+    </script>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg?v=gd-20260913" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700;750&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Space+Grotesk:wght@400;500;600;700&family=Caveat:wght@500;600&display=swap" rel="stylesheet" />
+    <title>{title}</title>
+  </head>
+  <body class:list={[{ 'studio-page': studio }]}>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <slot />
+    <script>import '../lib/theme';</script>
+    <script>import '../lib/themed-select';</script>
+  </body>
+</html>

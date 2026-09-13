@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Ultraviolet",
+    "colors": [
+      "#1E3AB8",
+      "#7FA8F0",
+      "#8E5BE8",
+      "#C078F0",
+      "#F8B8E8"
+    ]
+  },
+  {
+    "name": "Rosewater",
+    "colors": [
+      "#702337",
+      "#B5616A",
+      "#DEA0A4",
+      "#EDCFD8",
+      "#FCF5F3"
+    ]
+  },
+  {
+    "name": "Garnet silk",
+    "colors": [
+      "#491D36",
+      "#893C64",
+      "#C3758F",
+      "#E1A4AF",
+      "#F4D4CE"
+    ]
+  },
+  {
+    "name": "Petrol",
+    "colors": [
+      "#123E49",
+      "#207681",
+      "#53ADAE",
+      "#ADDBCC",
+      "#EDF4D9"
+    ]
+  },
+  {
+    "name": "Cobalt pearl",
+    "colors": [
+      "#192D68",
+      "#3F63A8",
+      "#8DAAD3",
+      "#CFDDEA",
+      "#F4E9DD"
+    ]
+  },
+  {
+    "name": "Ember",
+    "colors": [
+      "#51293B",
+      "#A34A45",
+      "#E1815F",
+      "#F2B679",
+      "#F8DEC2"
+    ]
+  },
+  {
+    "name": "Citron",
+    "colors": [
+      "#26483D",
+      "#557D57",
+      "#A4B963",
+      "#D6D998",
+      "#F2EDCC"
+    ]
+  },
+  {
+    "name": "Lilac dusk",
+    "colors": [
+      "#40384E",
+      "#7D708D",
+      "#AEA0C0",
+      "#D9CADC",
+      "#F1E7EC"
+    ]
+  },
+  {
+    "name": "Silver mist",
+    "colors": [
+      "#303840",
+      "#67767C",
+      "#A6B6B7",
+      "#D4DDDA",
+      "#F1F0EA"
+    ]
+  },
+  {
+    "name": "Coral tide",
+    "colors": [
+      "#244B64",
+      "#598F9C",
+      "#C3C6B6",
+      "#EAB39F",
+      "#F7DCC5"
+    ]
+  },
+  {
+    "name": "Glacier",
+    "colors": [
+      "#183F60",
+      "#277EA3",
+      "#65BED0",
+      "#B9E3DF",
+      "#EAF4E6"
+    ]
+  },
+  {
+    "name": "Mint tonic",
+    "colors": [
+      "#173E36",
+      "#247465",
+      "#55B895",
+      "#ACDDB5",
+      "#E5F1CD"
+    ]
+  },
+  {
+    "name": "Yuzu",
+    "colors": [
+      "#684419",
+      "#AD7529",
+      "#E9B849",
+      "#F4D984",
+      "#F8ECC8"
+    ]
+  },
+  {
+    "name": "Cherry pop",
+    "colors": [
+      "#521A37",
+      "#9C204C",
+      "#E24762",
+      "#F8968E",
+      "#F7D0B5"
+    ]
+  },
+  {
+    "name": "Blue hour",
+    "colors": [
+      "#22265E",
+      "#3B4EA8",
+      "#7785DE",
+      "#BCC4F1",
+      "#E4E9FA"
+    ]
+  },
+  {
+    "name": "Orchid ice",
+    "colors": [
+      "#433072",
+      "#7354AF",
+      "#A390D1",
+      "#CFD2E8",
+      "#E2F3EF"
+    ]
+  },
+  {
+    "name": "Saffron ink",
+    "colors": [
+      "#272B44",
+      "#68536D",
+      "#B77B79",
+      "#EBA665",
+      "#F6DAA0"
+    ]
+  },
+  {
+    "name": "Velvet peach",
+    "colors": [
+      "#34325A",
+      "#69628B",
+      "#B09DBB",
+      "#E3BFC8",
+      "#F5DCC6"
+    ]
+  },
+  {
+    "name": "Blue porcelain",
+    "colors": [
+      "#E6EEEC",
+      "#BCD6D9",
+      "#77ADBF",
+      "#39799C",
+      "#214665"
+    ]
+  },
+  {
+    "name": "Pink salt",
+    "colors": [
+      "#F0DFDA",
+      "#E0B5BE",
+      "#C080A1",
+      "#8D567D",
+      "#4B355D"
+    ]
+  }
+]

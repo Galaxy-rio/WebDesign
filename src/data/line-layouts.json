@@ -1,0 +1,693 @@
+{
+  "layouts": [
+    {
+      "id": "snake",
+      "name": "Snake",
+      "shapes": [
+        {
+          "id": "ln-sk1",
+          "form": "snake",
+          "seed": 4127,
+          "turns": 3,
+          "curl": 100,
+          "amp": 46,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 52,
+          "scale": 150,
+          "rotate": -12,
+          "reverse": false,
+          "shift": 0
+        }
+      ]
+    },
+    {
+      "id": "drops",
+      "name": "Drops",
+      "shapes": [
+        {
+          "id": "ln-dp1",
+          "form": "arc",
+          "seed": 1644,
+          "turns": 1,
+          "curl": 38,
+          "amp": 50,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 93.8,
+          "y": 64.5,
+          "scale": 44,
+          "rotate": 249,
+          "reverse": false,
+          "shift": 1,
+          "span": 24
+        },
+        {
+          "id": "ln-dp2",
+          "form": "pill",
+          "seed": 6533,
+          "turns": 1,
+          "curl": 5,
+          "amp": 50,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 92.9,
+          "y": 96,
+          "scale": 34,
+          "rotate": 232,
+          "reverse": false,
+          "shift": 2,
+          "span": 24
+        },
+        {
+          "id": "ln-dp3",
+          "form": "worm",
+          "seed": 8011,
+          "turns": 1,
+          "curl": 65,
+          "amp": 55,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 48.9,
+          "y": 89.1,
+          "scale": 34,
+          "rotate": 145,
+          "reverse": false,
+          "shift": 22,
+          "span": 24
+        },
+        {
+          "id": "ln-dp4",
+          "form": "worm",
+          "seed": 4565,
+          "turns": 2,
+          "curl": 71,
+          "amp": 55,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 30.7,
+          "y": 94.7,
+          "scale": 43,
+          "rotate": 151,
+          "reverse": false,
+          "shift": 24,
+          "span": 24
+        },
+        {
+          "id": "ln-dp5",
+          "form": "sq",
+          "seed": 3043,
+          "turns": 1,
+          "curl": 35,
+          "amp": 50,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 17.8,
+          "y": 70.5,
+          "scale": 44,
+          "rotate": 255,
+          "reverse": false,
+          "shift": 75,
+          "span": 50
+        },
+        {
+          "id": "ln-dp6",
+          "form": "snake",
+          "seed": 6819,
+          "turns": 1,
+          "curl": 89,
+          "amp": 55,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 5.4,
+          "y": 38.2,
+          "scale": 30,
+          "rotate": 165,
+          "reverse": false,
+          "shift": 37,
+          "span": 24
+        },
+        {
+          "id": "ln-dp7",
+          "form": "pill",
+          "seed": 6246,
+          "turns": 1,
+          "curl": 11,
+          "amp": 50,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 0.6,
+          "y": 0.1,
+          "scale": 44,
+          "rotate": 245,
+          "reverse": false,
+          "shift": 53,
+          "span": 24
+        },
+        {
+          "id": "ln-dp8",
+          "form": "pill",
+          "seed": 9452,
+          "turns": 1,
+          "curl": 3,
+          "amp": 50,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 39.2,
+          "y": -1.2,
+          "scale": 34,
+          "rotate": 351,
+          "reverse": false,
+          "shift": 57,
+          "span": 24
+        },
+        {
+          "id": "ln-dp9",
+          "form": "worm",
+          "seed": 1169,
+          "turns": 1,
+          "curl": 74,
+          "amp": 55,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 51.5,
+          "y": 9.5,
+          "scale": 44,
+          "rotate": 18,
+          "reverse": false,
+          "shift": 64,
+          "span": 24
+        },
+        {
+          "id": "ln-dp10",
+          "form": "arc",
+          "seed": 1950,
+          "turns": 1,
+          "curl": 81,
+          "amp": 50,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 86,
+          "y": 12.8,
+          "scale": 56,
+          "rotate": 210,
+          "reverse": false,
+          "shift": 75,
+          "span": 24
+        },
+        {
+          "id": "ln-dp11",
+          "form": "snake",
+          "seed": 6166,
+          "turns": 1,
+          "curl": 86,
+          "amp": 55,
+          "width": 100,
+          "taper": 0,
+          "sway": 0,
+          "x": 74.9,
+          "y": 46.1,
+          "scale": 30,
+          "rotate": 285,
+          "reverse": false,
+          "shift": 94,
+          "span": 24
+        }
+      ]
+    },
+    {
+      "id": "loops",
+      "name": "Loops",
+      "shapes": [
+        {
+          "id": "ln-tt1",
+          "form": "loop",
+          "seed": 3355,
+          "turns": 2,
+          "curl": 80,
+          "amp": 55,
+          "width": 58,
+          "taper": 0,
+          "sway": 0,
+          "x": 56,
+          "y": 38,
+          "scale": 132,
+          "rotate": 0,
+          "reverse": false,
+          "shift": 0
+        }
+      ]
+    },
+    {
+      "id": "ribbon",
+      "name": "Ribbon",
+      "shapes": [
+        {
+          "id": "ln-rb1",
+          "form": "curve",
+          "seed": 4127,
+          "turns": 1,
+          "curl": 42,
+          "amp": 52,
+          "width": 52,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 52,
+          "scale": 178,
+          "rotate": -22,
+          "reverse": false,
+          "shift": 0
+        }
+      ]
+    },
+    {
+      "id": "doodle",
+      "name": "Doodle",
+      "shapes": [
+        {
+          "id": "ln-do1",
+          "form": "scribble",
+          "seed": 3355,
+          "turns": 4,
+          "curl": 62,
+          "amp": 55,
+          "width": 13,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 38,
+          "scale": 235,
+          "rotate": 0,
+          "reverse": false,
+          "shift": 88,
+          "span": 8
+        }
+      ]
+    },
+    {
+      "id": "wander",
+      "name": "Wander",
+      "shapes": [
+        {
+          "id": "ln-wa1",
+          "form": "loop",
+          "seed": 907,
+          "turns": 2,
+          "curl": 72,
+          "amp": 55,
+          "width": 15,
+          "taper": 0,
+          "sway": 0,
+          "x": 52,
+          "y": 50,
+          "scale": 172,
+          "rotate": 8,
+          "reverse": false,
+          "shift": 30,
+          "span": 8
+        }
+      ]
+    },
+    {
+      "id": "waves",
+      "name": "Waves",
+      "shapes": [
+        {
+          "id": "ln-wv1",
+          "form": "wave",
+          "seed": 5521,
+          "turns": 2,
+          "curl": 34,
+          "amp": 34,
+          "width": 13,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 44,
+          "scale": 205,
+          "rotate": 0,
+          "reverse": false,
+          "shift": 12,
+          "span": 10
+        },
+        {
+          "id": "ln-wv2",
+          "form": "wave",
+          "seed": 5521,
+          "turns": 2,
+          "curl": 34,
+          "amp": 34,
+          "width": 13,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 57,
+          "scale": 205,
+          "rotate": 0,
+          "reverse": false,
+          "shift": 30,
+          "span": 10
+        },
+        {
+          "id": "ln-wv3",
+          "form": "wave",
+          "seed": 5521,
+          "turns": 2,
+          "curl": 34,
+          "amp": 34,
+          "width": 13,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 70,
+          "scale": 205,
+          "rotate": 0,
+          "reverse": false,
+          "shift": 48,
+          "span": 10
+        },
+        {
+          "id": "ln-wv4",
+          "form": "wave",
+          "seed": 5521,
+          "turns": 2,
+          "curl": 34,
+          "amp": 34,
+          "width": 13,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 83,
+          "scale": 205,
+          "rotate": 0,
+          "reverse": false,
+          "shift": 66,
+          "span": 10
+        },
+        {
+          "id": "ln-wv5",
+          "form": "wave",
+          "seed": 5521,
+          "turns": 2,
+          "curl": 34,
+          "amp": 34,
+          "width": 13,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 96,
+          "scale": 205,
+          "rotate": 0,
+          "reverse": false,
+          "shift": 84,
+          "span": 10
+        }
+      ]
+    },
+    {
+      "id": "echo",
+      "name": "Echo",
+      "shapes": [
+        {
+          "id": "ln-ec1",
+          "form": "curve",
+          "seed": 4127,
+          "turns": 2,
+          "curl": 50,
+          "amp": 55,
+          "width": 32,
+          "taper": 0,
+          "sway": 0,
+          "x": 36,
+          "y": 33,
+          "scale": 172,
+          "rotate": -18,
+          "reverse": false,
+          "shift": 10,
+          "span": 12
+        },
+        {
+          "id": "ln-ec2",
+          "form": "curve",
+          "seed": 4127,
+          "turns": 2,
+          "curl": 50,
+          "amp": 55,
+          "width": 32,
+          "taper": 0,
+          "sway": 0,
+          "x": 50,
+          "y": 50,
+          "scale": 172,
+          "rotate": -18,
+          "reverse": false,
+          "shift": 45,
+          "span": 12
+        },
+        {
+          "id": "ln-ec3",
+          "form": "curve",
+          "seed": 4127,
+          "turns": 2,
+          "curl": 50,
+          "amp": 55,
+          "width": 32,
+          "taper": 0,
+          "sway": 0,
+          "x": 64,
+          "y": 67,
+          "scale": 172,
+          "rotate": -18,
+          "reverse": false,
+          "shift": 85,
+          "span": 12
+        }
+      ]
+    }
+  ],
+  "palettes": [
+    {
+      "name": "Cobalt",
+      "colors": [
+        "#F5F6F8",
+        "#A9C9F0",
+        "#4E86D6",
+        "#1B4FA0",
+        "#0B2B57"
+      ]
+    },
+    {
+      "name": "Cinder",
+      "colors": [
+        "#16110F",
+        "#FFD9A0",
+        "#FF8A3C",
+        "#E8382F",
+        "#A01F4B"
+      ]
+    },
+    {
+      "name": "Vivid",
+      "colors": [
+        "#F5F5F7",
+        "#5AC8FA",
+        "#0A84FF",
+        "#5E5CE6",
+        "#BF5AF2",
+        "#FF375F",
+        "#FF9F0A"
+      ],
+      "divisions": [
+        0.02,
+        0.12,
+        0.42,
+        0.62,
+        0.78,
+        0.92
+      ]
+    },
+    {
+      "name": "Rainbow",
+      "colors": [
+        "#F7F5F1",
+        "#2E5BE8",
+        "#25C4B8",
+        "#A8D848",
+        "#FFC53D",
+        "#FF7A2E",
+        "#EE3D8E",
+        "#9A34D8",
+        "#4A54E8"
+      ]
+    },
+    {
+      "name": "Droplets",
+      "colors": [
+        "#F4F3F5",
+        "#8FE060",
+        "#28E0C8",
+        "#3E8AF0",
+        "#4A50E8",
+        "#9A5AE8",
+        "#E8489A",
+        "#F0605A",
+        "#FFAA4E"
+      ]
+    },
+    {
+      "name": "Blossom",
+      "colors": [
+        "#FFF6EC",
+        "#FFB7C5",
+        "#F0879E",
+        "#B28FCE",
+        "#7FB8E8"
+      ]
+    },
+    {
+      "name": "Night",
+      "colors": [
+        "#151833",
+        "#F2F8FF",
+        "#8FB4FF",
+        "#2F49E0"
+      ]
+    },
+    {
+      "name": "Sunset",
+      "colors": [
+        "#FFF1E0",
+        "#FFC94D",
+        "#FF9F45",
+        "#FF5E62",
+        "#D9418F",
+        "#6E4FD8"
+      ]
+    },
+    {
+      "name": "Candy",
+      "colors": [
+        "#FFF6F8",
+        "#FF4FA0",
+        "#FF3B30",
+        "#FF9500",
+        "#FFCC00",
+        "#AF52DE"
+      ]
+    },
+    {
+      "name": "Peach",
+      "colors": [
+        "#FAD2A6",
+        "#FFDF94",
+        "#FFAE62",
+        "#F28AA0",
+        "#E86380"
+      ]
+    },
+    {
+      "name": "Rosewater",
+      "colors": [
+        "#EFEFF1",
+        "#FFC9CB",
+        "#FF9FA4",
+        "#F2707E"
+      ]
+    },
+    {
+      "name": "Prism",
+      "colors": [
+        "#FFFFFF",
+        "#E8174C",
+        "#8A2BD9",
+        "#2222E8",
+        "#2EE87A",
+        "#D8E84A",
+        "#F5A0C0",
+        "#F0B040"
+      ]
+    },
+    {
+      "name": "Lavender",
+      "colors": [
+        "#F6F4F0",
+        "#C6BEF0",
+        "#9484E0",
+        "#6E5AC8"
+      ]
+    },
+    {
+      "name": "Marine",
+      "colors": [
+        "#F8F7F4",
+        "#7ADCD0",
+        "#3E9EC0",
+        "#3A5BAE",
+        "#28306E"
+      ]
+    },
+    {
+      "name": "Plum dusk",
+      "colors": [
+        "#2A1633",
+        "#FFD9A0",
+        "#FF9B7A",
+        "#F0679E",
+        "#B06AD8"
+      ]
+    },
+    {
+      "name": "Royal",
+      "colors": [
+        "#2E5BD8",
+        "#F5D93C",
+        "#3FBD5A",
+        "#FF8A3C",
+        "#E8497E",
+        "#8A5BE8",
+        "#FF5A2A"
+      ]
+    },
+    {
+      "name": "Neon night",
+      "colors": [
+        "#14162B",
+        "#7ADCF0",
+        "#7B8CFF",
+        "#C08BF5",
+        "#FF8FC8"
+      ]
+    },
+    {
+      "name": "Ink lines",
+      "colors": [
+        "#F5F2EA",
+        "#C9C6BC",
+        "#8E9094",
+        "#36363B"
+      ]
+    },
+    {
+      "name": "Lime pop",
+      "colors": [
+        "#A8CE3B",
+        "#57B8E8",
+        "#3E6FD9",
+        "#2E4BB5"
+      ]
+    }
+  ]
+}

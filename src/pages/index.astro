@@ -1,0 +1,20 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import Icon from '../components/Icon.astro';
+import ThemeToggle from '../components/ThemeToggle.astro';
+import DesignMark from '../components/DesignMark.astro';
+---
+<SiteLayout title="Design Playground · galaxyrio">
+  <div class="hub-wrap">
+    <header class="hub-header"><a href="/" class="hub-brand"><DesignMark class="hub-logo"/><span>galaxyrio <b>/ design</b></span></a><div class="studio-header-actions"><ThemeToggle/></div></header>
+    <main id="main" class="hub-main">
+      <div class="hub-intro"><span class="eyebrow">THE DESIGN PLAYGROUND</span><h1>A little space<br/>for <em>big ideas.</em></h1><p>Small tools for exploring colour, shape, and the unexpected.</p></div>
+      <a class="tool-card" href="/pigment/">
+        <div class="tool-art" aria-hidden="true"><span class="tool-word">Pigment<span>Studio</span></span><div class="art-swatches"><i style="--swatch:#eaf4fc"></i><i style="--swatch:#1e50a2"></i><i style="--swatch:#f09199"></i><i style="--swatch:#895b8a"></i></div><span class="tool-badge">COLOUR & GRADIENTS</span></div>
+        <div class="tool-info"><div><h2>Pigment Studio</h2><p>Make colour move. Blend, shape, and save your next gradient.</p></div><span class="launch-button"><Icon name="arrow" size={26}/></span></div>
+      </a>
+      <p class="hub-note"><Icon name="sparkle"/> More little experiments are on the way.</p>
+    </main>
+    <footer class="hub-footer"><span>Made with curiosity, by galaxyrio.</span><span>Room to explore.</span></footer>
+  </div>
+</SiteLayout>

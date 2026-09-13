@@ -1,0 +1,45 @@
+---
+import SiteLayout from '../../layouts/SiteLayout.astro';
+import Icon from '../../components/Icon.astro';
+import ThemeToggle from '../../components/ThemeToggle.astro';
+import PigmentMark from '../../components/PigmentMark.astro';
+import { presetSwatch } from '../../lib/pigment/preset-swatch';
+const presets = [
+  ['Iridescent cloud','#EAF4FC','#1E50A2','#F09199','#895B8A'],['Opal','#F6F9FF','#9BE0E8','#C4B5F7','#F8B8D9'],['Lagoon','#EAFBF7','#5CE3E6','#0F9CC2','#274A78'],['Emerald','#F0FBEF','#8FE3B0','#22C79A','#0B5F51'],
+  ['Solar flare','#FFF6DE','#FFC24B','#F4664D','#8A2E5E'],['Orchid','#FBEFFB','#E794C9','#9678CE','#4A3894'],['Peach glow','#FFF3EC','#FFC9A3','#F08A8C','#B65E8C'],['Electric tide','#DFFBFF','#6FD8F2','#4C5BE0','#2A2450'],
+];
+---
+<SiteLayout title="Pigment Studio" description="Create flowing gradients, explore traditional Japanese colours, and export your designs. A free colour playground by galaxyrio." studio>
+  <div class="studio-shell">
+    <header class="studio-header">
+      <a class="studio-brand" href="/" aria-label="Pigment Studio · Back to design home" title="Back to design home"><PigmentMark class="studio-logo"/><strong>Pigment Studio</strong></a>
+      <div class="studio-header-actions"><nav class="segmented main-segments" aria-label="Workspace"><button class="selected" data-view="studio" aria-pressed="true"><Icon name="studio"/><span>Studio</span></button><button data-view="palette" aria-pressed="false"><Icon name="palette"/><span>Palette</span></button><button data-view="saved" aria-pressed="false"><Icon name="bookmark"/><span>Saved</span><span id="saved-count" class="count" hidden>0</span></button></nav><ThemeToggle/></div>
+    </header>
+    <main id="main">
+      <section id="studio-view" class="workspace" aria-label="Gradient studio">
+        <aside class="inspector" aria-label="Gradient settings">
+          <div class="inspector-tabs" role="tablist" aria-label="Editor panel"><button role="tab" aria-selected="true" data-panel="design" class="active"><Icon name="sliders" size={18}/>Design</button><button role="tab" aria-selected="false" data-panel="text"><Icon name="text" size={18}/>Text</button><button role="tab" aria-selected="false" data-panel="image"><Icon name="image" size={18}/>Image</button></div>
+          <div class="inspector-scroll" id="inspector-content">
+            <section class="control-section"><div class="section-heading"><h2>Gradient type</h2><span class="field-caption" id="type-caption">Flow</span></div><div id="type-family" class="family-tabs"><button class="active">Popular</button><button>Fields</button><button>Strips</button><button>Objects</button></div><div class="type-grid" id="type-grid">{['Flow','Sky','Aurora','Mesh','Forms','Glow','Bars','Prism'].map((type,i)=><button class:list={['type-option',{active:i===0}]}><span class:list={['type-thumbnail',`type-${type.toLowerCase()}`]}></span><span>{type}</span></button>)}</div></section>
+            <section class="control-section"><div class="section-heading"><h2>Presets</h2><span class="field-caption">for flow</span></div><div class="preset-grid" id="preset-grid">{presets.map(([name,...colors],i)=><button class:list={['preset',{active:i===0}]} title={name}><span class="preset-disc" set:html={presetSwatch(colors)}></span><span>{name}</span></button>)}</div></section>
+            <section class="control-section"><div class="section-heading"><h2>Field</h2><button class="quiet-button" id="reset-field">Reset</button></div><div class="parameter-list">{[['Scale',50],['Distortion',60],['Swirl',10],['Speed',30]].map(([name,value])=><label class="range-field"><span>{name}<output>{value}%</output></span><span class="range-control" style={`--fill:${value}%`}><input type="range" min="0" max="100" value={value} aria-label={String(name)} data-param={String(name).toLowerCase()}/></span></label>)}</div></section>
+            <section class="control-section"><div class="section-heading"><h2>Colours</h2><span class="field-caption">4</span></div><div id="color-list"></div><button class="tonal-button full-width" id="add-color"><Icon name="plus"/>Add colour</button></section>
+          </div>
+        </aside>
+        <div class="canvas-column">
+          <div class="canvas-topline"><div class="blend-heading"><span class="live-dot"></span><span id="blend-name">Iridescent cloud</span><span class="type-badge" id="blend-type">FLOW</span></div><div class="history-buttons"><button class="icon-button" id="undo" aria-label="Undo" title="Undo (Ctrl+Z)" disabled><Icon name="undo"/></button><button class="icon-button" id="redo" aria-label="Redo" title="Redo (Ctrl+Shift+Z)" disabled><Icon name="redo"/></button></div></div>
+          <div id="canvas-stage" class="canvas-stage"><div id="canvas-frame" class="canvas-frame"><canvas id="gradient-canvas" aria-label="Your gradient preview"></canvas><div id="grain-layer" aria-hidden="true"></div><div id="image-layer"></div><div id="text-layer"><span class="canvas-text" style="left:50%;top:50%;font-family:Fraunces,Georgia,serif;font-size:clamp(36px,5.8vw,100px);color:#292635">Solitude</span></div><div id="point-layer"></div><div id="color-tags"></div><div id="contrast-layer" hidden></div></div><div class="canvas-tools"><button class="glass-button" id="toggle-tags" aria-label="Hide colour tags" title="Show or hide colour tags"><Icon name="eye"/></button><button class="glass-button" id="contrast" title="Check text contrast" aria-label="Check text contrast"><Icon name="contrast"/></button><button class="glass-button" id="set-frame" title="Canvas frame" aria-label="Canvas frame"><Icon name="frame"/></button><button class="glass-button" id="fullscreen" aria-label="Open fullscreen" title="Fullscreen (F)"><Icon name="expand"/></button></div></div>
+          <div class="balance-wrap"><div class="balance-track" id="balance-track"></div><p>Drag the bands to balance colour. Drag the rings to place it.</p></div>
+          <div class="studio-actions"><div class="playback"><button class="icon-button tonal" id="play-pause" aria-label="Pause animation"><Icon name="pause"/></button><span id="playback-label">In motion</span></div><div class="action-group"><button class="icon-button" id="randomize" aria-label="Surprise me" title="Surprise me (R)"><Icon name="shuffle"/></button><button class="outlined-button" id="save" aria-label="Save design"><Icon name="bookmark"/><span>Save</span></button><button class="outlined-button" id="share" aria-label="Share design"><Icon name="share"/><span>Share</span></button><button class="outlined-button" id="preview" aria-label="Preview design"><Icon name="eye"/><span>Preview</span></button><button class="filled-button" id="export" aria-label="Export design"><Icon name="download"/><span>Export</span></button></div></div>
+          <div class="studio-footnote"><a href="/">galaxyrio / design</a><button class="quiet-button" id="shortcuts">Keyboard shortcuts <kbd>?</kbd></button></div>
+        </div>
+      </section>
+      <section id="palette-view" class="collection-view" aria-label="Colour palette" hidden></section>
+      <section id="saved-view" class="collection-view" aria-label="Saved gradients" hidden></section>
+    </main>
+  </div>
+  <dialog id="studio-dialog" class="studio-dialog"><div id="dialog-content"></div></dialog>
+  <div id="toast" role="status" aria-live="polite" class="snackbar" hidden></div>
+  <noscript><div class="noscript-message">Pigment Studio needs JavaScript to draw and edit gradients. Please enable JavaScript in your browser.</div></noscript>
+  <script>import '../../lib/pigment/app';</script>
+</SiteLayout>
