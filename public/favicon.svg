@@ -1,7 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-  <rect width="256" height="256" rx="104" fill="#6351b2" />
-  <svg x="29" y="71.639" width="198" height="112.723" viewBox="58 54 404 230" fill="#fff">
-    <path d="M217 54H173a115 115 0 0 0 0 230h63v-99h-48v51h-15a67 67 0 0 1 0-134h44Z" />
-    <path d="M284 54h63a115 115 0 0 1 0 230h-63v-48h63a67 67 0 0 0 0-134h-15v109h-48Z" />
-  </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="26 -4 256 256">
+  <style>
+    :root { color: #181818; }
+    @media (prefers-color-scheme: dark) { :root { color: #f6f6f4; } }
+  </style>
+  <g fill="currentColor">
+    <path d="M115 27 173 85 153 105 115 67 78 104C65 117 65 133 78 146L115 183C125 171 125 155 112 142L96 126 116 106 132 122C156 146 156 180 132 204L115 220 56 162C34 140 34 107 56 85Z" />
+    <path fill-rule="evenodd" d="M154 27H193L251 85C274 108 274 141 251 164L193 220 175 202C152 179 152 146 175 123L212 86ZM232 105 195 142C183 154 182 169 193 182L231 144C243 132 243 118 232 105Z" />
+  </g>
 </svg>
